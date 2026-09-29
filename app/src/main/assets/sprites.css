@@ -1,0 +1,1368 @@
+.inverse.item.small{transform:rotate(180deg) scale(0.8)}
+.item{height:50px}
+.item.small{transform:scale(0.8);margin:-2px !important}
+.items-container .vitem{background:url(images/item.png) top left no-repeat}
+.items-container .vitem.itm1{background-position:0 0;width:28px}
+.items-container .vitem.itm2{background-position:-28px 0;width:52px}
+.items-container .vitem.itm3{background-position:-80px 0;width:59px}
+.items-container .vitem.itm4{background-position:-139px 0;width:57px}
+.items-container .vitem.itm5{background-position:-196px 0;width:41px}
+.items-container .vitem.itm6{background-position:-237px 0;width:32px}
+.items-container .vitem.itm7{background-position:-269px 0;width:80px}
+.items-container .vitem.itm8{background-position:-349px 0;width:36px}
+.items-container .vitem.itm9{background-position:-385px 0;width:52px}
+.items-container .vitem.itm10{background-position:-437px 0;width:42px}
+.items-container .vitem.itm11{background-position:-479px 0;width:48px}
+.items-container .vitem.itm12{background-position:-527px 0;width:48px}
+.items-container .vitem.itm13{background-position:-575px 0;width:28px}
+.items-container .vitem.itm14{background-position:-603px 0;width:28px}
+.items-container .vitem.itm15{background-position:-631px 0;width:52px}
+.items-container .vitem.itm16{background-position:-683px 0;width:50px}
+.items-container .vitem.itm17{background-position:-733px 0;width:29px}
+.items-container .vitem.itm18{background-position:-762px 0;width:43px}
+.items-container .vitem.itm19{background-position:-805px 0;width:41px}
+.items-container .vitem.itm20{background-position:-846px 0;width:21px}
+.items-container .vitem.itm21{background-position:-867px 0;width:52px}
+.items-container .vitem.itm22{background-position:-919px 0;width:40px}
+.items-container .vitem.itm23{background-position:-959px 0;width:50px}
+.items-container .vitem.itm24{background-position:-1009px 0;width:42px}
+.items-container .vitem.itm25{background-position:-1051px 0;width:46px}
+.items-container .vitem.itm26{background-position:-1097px 0;width:51px}
+.items-container .vitem.itm27{background-position:-1148px 0;width:23px}
+.items-container .vitem.itm28{background-position:-1171px 0;width:39px}
+.items-container .vitem.itm29{background-position:-1210px 0;width:65px}
+.items-container .vitem.itm30{background-position:-1275px 0;width:54px}
+.items-container .vitem.itm31{background-position:-1329px 0;width:22px}
+.items-container .vitem.itm32{background-position:-1351px 0;width:41px}
+.items-container .vitem.itm33{background-position:-1392px 0;width:43px}
+.items-container .vitem.itm34{background-position:-1435px 0;width:43px}
+.items-container .vitem.itm35{background-position:-1478px 0;width:43px}
+.items-container .vitem.itm36{background-position:-1521px 0;width:45px}
+.items-container .vitem.itm37{background-position:-1566px 0;width:37px}
+.items-container .vitem.itm38{background-position:-1603px 0;width:41px}
+.items-container .vitem.itm39{background-position:-1644px 0;width:50px}
+.items-container .vitem.itm40{background-position:-1694px 0;width:41px}
+.items-container .vitem.itm41{background-position:-1735px 0;width:27px}
+.items-container .vitem.itm42{background-position:-1762px 0;width:47px}
+.items-container .vitem.itm44{background-position:-1809px 0;width:34px}
+.items-container .vitem.itm45{background-position:-1843px 0;width:53px}
+.items-container .vitem.itm46{background-position:-1896px 0;width:46px}
+.items-container .vitem.itm47{background-position:-1942px 0;width:34px}
+.items-container .vitem.itm48{background-position:-1976px 0;width:27px}
+.items-container .vitem.itm49{background-position:-2003px 0;width:43px}
+.items-container .vitem.itm50{background-position:-2046px 0;width:54px}
+.items-container .vitem.itm51{background-position:-2100px 0;width:48px}
+.items-container .vitem.itm52{background-position:-2148px 0;width:36px}
+.items-container .vitem.itm53{background-position:-2184px 0;width:44px}
+.items-container .vitem.itm54{background-position:-2228px 0;width:41px}
+.items-container .vitem.itm55{background-position:-2269px 0;width:40px}
+.items-container .vitem.itm56{background-position:-2309px 0;width:50px}
+.items-container .vitem.itm57{background-position:-2359px 0;width:128px}
+.items-container .vitem.itm58{background-position:-2487px 0;width:43px}
+.items-container .vitem.itm59{background-position:-2530px 0;width:52px}
+.items-container .vitem.itm60{background-position:-2582px 0;width:48px}
+.items-container .vitem.itm62{background-position:-2630px 0;width:63px}
+.items-container .vitem.itm63{background-position:-2693px 0;width:38px}
+.items-container .vitem.itm64{background-position:-2731px 0;width:50px}
+.items-container .vitem.itm65{background-position:-2781px 0;width:43px}
+.items-container .vitem.itm66{background-position:-2824px 0;width:35px}
+.items-container .vitem.itm67{background-position:-2859px 0;width:36px}
+.items-container .vitem.itm68{background-position:-2895px 0;width:57px}
+.items-container .vitem.itm69{background-position:-2952px 0;width:35px}
+.items-container .vitem.itm70{background-position:-2987px 0;width:28px}
+.items-container .vitem.itm71{background-position:-3015px 0;width:40px}
+.items-container .vitem.itm72{background-position:-3055px 0;width:41px}
+.items-container .vitem.itm73{background-position:-3096px 0;width:56px}
+.items-container .vitem.itm74{background-position:-3152px 0;width:53px}
+.items-container .vitem.itm75{background-position:-3205px 0;width:65px}
+.items-container .vitem.itm76{background-position:-3270px 0;width:95px}
+.items-container .vitem.itm77{background-position:-3365px 0;width:25px}
+.items-container .vitem.itm78{background-position:-3390px 0;width:43px}
+.items-container .vitem.itm79{background-position:-3433px 0;width:50px}
+.items-container .vitem.itm80{background-position:-3483px 0;width:35px}
+.items-container .vitem.itm81{background-position:-3518px 0;width:70px}
+.items-container .vitem.itm82{background-position:-3588px 0;width:34px}
+.items-container .vitem.itm83{background-position:-3622px 0;width:23px}
+.items-container .vitem.itm84{background-position:-3645px 0;width:25px}
+.items-container .vitem.itm85{background-position:-3670px 0;width:52px}
+.items-container .vitem.itm86{background-position:-3722px 0;width:38px}
+.items-container .vitem.itm87{background-position:-3760px 0;width:41px}
+.items-container .vitem.itm88{background-position:-3801px 0;width:38px}
+.items-container .vitem.itm89{background-position:-3839px 0;width:79px}
+.items-container .vitem.itm90{background-position:-3918px 0;width:50px}
+.items-container .vitem.itm91{background-position:-3968px 0;width:48px}
+.items-container .vitem.itm92{background-position:-4016px 0;width:57px}
+.items-container .vitem.itm93{background-position:-4073px 0;width:38px}
+.items-container .vitem.itm94{background-position:-4111px 0;width:39px}
+.items-container .vitem.itm95{background-position:-4150px 0;width:36px}
+.items-container .vitem.itm96{background-position:-4186px 0;width:42px}
+.items-container .vitem.itm97{background-position:-4228px 0;width:43px}
+.items-container .vitem.itm98{background-position:-4271px 0;width:42px}
+.items-container .vitem.itm99{background-position:-4313px 0;width:52px}
+.items-container .vitem.itm100{background-position:-4365px 0;width:35px}
+.items-container .vitem.itm101{background-position:-4400px 0;width:94px}
+.items-container .vitem.itm102{background-position:-4494px 0;width:48px}
+.items-container .vitem.itm103{background-position:-4542px 0;width:55px}
+.items-container .vitem.itm104{background-position:-4597px 0;width:42px}
+.items-container .vitem.itm105{background-position:-4639px 0;width:59px}
+.items-container .vitem.itm106{background-position:-4698px 0;width:47px}
+.items-container .vitem.itm107{background-position:-4745px 0;width:42px}
+.items-container .vitem.itm108{background-position:-4787px 0;width:50px}
+.items-container .vitem.itm109{background-position:-4837px 0;width:56px}
+.items-container .vitem.itm110{background-position:-4893px 0;width:47px}
+.items-container .vitem.itm111{background-position:-4940px 0;width:41px}
+.items-container .vitem.itm112{background-position:-4981px 0;width:73px}
+.items-container .vitem.itm113{background-position:-5054px 0;width:34px}
+.items-container .vitem.itm114{background-position:-5088px 0;width:20px}
+.items-container .vitem.itm115{background-position:-5108px 0;width:67px}
+.items-container .vitem.itm116{background-position:-5175px 0;width:42px}
+.items-container .vitem.itm117{background-position:-5217px 0;width:57px}
+.items-container .vitem.itm118{background-position:-5274px 0;width:50px}
+.items-container .vitem.itm119{background-position:-5324px 0;width:41px}
+.items-container .vitem.itm120{background-position:-5365px 0;width:19px}
+.items-container .vitem.itm121{background-position:-5384px 0;width:74px}
+.items-container .vitem.itm122{background-position:-5458px 0;width:52px}
+.items-container .vitem.itm123{background-position:-5510px 0;width:43px}
+.items-container .vitem.itm124{background-position:-5553px 0;width:41px}
+.items-container .vitem.itm125{background-position:-5594px 0;width:44px}
+.items-container .vitem.itm126{background-position:-5638px 0;width:40px}
+.items-container .vitem.itm127{background-position:-5678px 0;width:61px}
+.items-container .vitem.itm128{background-position:-5739px 0;width:144px}
+.items-container .vitem.itm129{background-position:-5883px 0;width:50px}
+.items-container .vitem.itm130{background-position:-5933px 0;width:38px}
+.items-container .vitem.itm131{background-position:-5971px 0;width:39px}
+.items-container .vitem.itm132{background-position:-6010px 0;width:66px}
+.items-container .vitem.itm133{background-position:-6076px 0;width:37px}
+.items-container .vitem.itm134{background-position:-6113px 0;width:50px}
+.items-container .vitem.itm135{background-position:-6163px 0;width:49px}
+.items-container .vitem.itm136{background-position:-6212px 0;width:42px}
+.items-container .vitem.itm137{background-position:-6254px 0;width:47px}
+.items-container .vitem.itm138{background-position:-6301px 0;width:36px}
+.items-container .vitem.itm139{background-position:-6337px 0;width:67px}
+.items-container .vitem.itm140{background-position:-6404px 0;width:47px}
+.items-container .vitem.itm141{background-position:-6451px 0;width:56px}
+.items-container .vitem.itm142{background-position:-6507px 0;width:55px}
+.items-container .vitem.itm143{background-position:-6562px 0;width:28px}
+.items-container .vitem.itm144{background-position:-6590px 0;width:42px}
+.items-container .vitem.itm145{background-position:-6632px 0;width:50px}
+.items-container .vitem.itm146{background-position:-6682px 0;width:38px}
+.items-container .vitem.itm147{background-position:-6720px 0;width:48px}
+.items-container .vitem.itm148{background-position:-6768px 0;width:42px}
+.items-container .vitem.itm149{background-position:-6810px 0;width:37px}
+.items-container .vitem.itm150{background-position:-6847px 0;width:70px}
+.items-container .vitem.itm151{background-position:-6917px 0;width:52px}
+.items-container .vitem.itm152{background-position:-6969px 0;width:59px}
+.items-container .vitem.itm153{background-position:-7028px 0;width:57px}
+.items-container .vitem.itm154{background-position:-7085px 0;width:37px}
+.items-container .vitem.itm155{background-position:-7122px 0;width:37px}
+.items-container .vitem.itm156{background-position:-7159px 0;width:44px}
+.items-container .vitem.itm157{background-position:-7203px 0;width:32px}
+.items-container .vitem.itm158{background-position:-7235px 0;width:48px}
+.items-container .vitem.itm159{background-position:-7283px 0;width:47px}
+.items-container .vitem.itm160{background-position:-7330px 0;width:29px}
+.items-container .vitem.itm161{background-position:-7359px 0;width:44px}
+.items-container .vitem.itm162{background-position:-7403px 0;width:45px}
+.items-container .vitem.itm163{background-position:-7448px 0;width:36px}
+.items-container .vitem.itm164{background-position:-7484px 0;width:42px}
+.items-container .vitem.itm165{background-position:-7526px 0;width:49px}
+.items-container .vitem.itm166{background-position:-7575px 0;width:53px}
+.items-container .vitem.itm167{background-position:-7628px 0;width:41px}
+.items-container .vitem.itm168{background-position:-7669px 0;width:34px}
+.items-container .vitem.itm169{background-position:-7703px 0;width:57px}
+.items-container .vitem.itm170{background-position:-7760px 0;width:50px}
+.items-container .vitem.itm171{background-position:-7810px 0;width:59px}
+.items-container .vitem.itm172{background-position:-7869px 0;width:19px}
+.items-container .vitem.itm173{background-position:-7888px 0;width:41px}
+.items-container .vitem.itm174{background-position:-7929px 0;width:56px}
+.items-container .vitem.itm175{background-position:-7985px 0;width:40px}
+.items-container .vitem.itm176{background-position:-8025px 0;width:53px}
+.items-container .vitem.itm177{background-position:-8078px 0;width:57px}
+.items-container .vitem.itm178{background-position:-8135px 0;width:43px}
+.items-container .vitem.itm179{background-position:-8178px 0;width:57px}
+.items-container .vitem.itm180{background-position:-8235px 0;width:41px}
+.items-container .vitem.itm181{background-position:-8276px 0;width:38px}
+.items-container .vitem.itm182{background-position:-8314px 0;width:38px}
+.items-container .vitem.itm183{background-position:-8352px 0;width:70px}
+.items-container .vitem.itm184{background-position:-8422px 0;width:44px}
+.items-container .vitem.itm185{background-position:-8466px 0;width:82px}
+.items-container .vitem.itm186{background-position:-8548px 0;width:58px}
+.items-container .vitem.itm187{background-position:-8606px 0;width:70px}
+.items-container .vitem.itm188{background-position:-8676px 0;width:52px}
+.items-container .vitem.itm189{background-position:-8728px 0;width:49px}
+.items-container .vitem.itm190{background-position:-8777px 0;width:41px}
+.items-container .vitem.itm191{background-position:-8818px 0;width:43px}
+.items-container .vitem.itm192{background-position:-8861px 0;width:43px}
+.items-container .vitem.itm193{background-position:-8904px 0;width:38px}
+.items-container .vitem.itm194{background-position:-8942px 0;width:54px}
+.items-container .vitem.itm195{background-position:-8996px 0;width:56px}
+.items-container .vitem.itm196{background-position:-9052px 0;width:36px}
+.items-container .vitem.itm197{background-position:-9088px 0;width:38px}
+.items-container .vitem.itm198{background-position:-9126px 0;width:61px}
+.items-container .rebirth-item{background:url("images/rebirth-items-final.png") top left no-repeat;width:50px;height:50px;image-rendering:pixelated}
+.items-container .rebirth-item.r-itm001{background-position:0 0;width:33px}
+.items-container .rebirth-item.r-itm002{background-position:-43px 0}
+.items-container .rebirth-item.r-itm003{background-position:-103px 0;width:59px}
+.items-container .rebirth-item.r-itm004{background-position:-172px 0;width:52px}
+.items-container .rebirth-item.r-itm005{background-position:-234px 0;width:38px}
+.items-container .rebirth-item.r-itm006{background-position:-282px 0;width:31px}
+.items-container .rebirth-item.r-itm007{background-position:-323px 0;width:84px}
+.items-container .rebirth-item.r-itm008{background-position:-417px 0;width:36px}
+.items-container .rebirth-item.r-itm009{background-position:-463px 0;width:43px}
+.items-container .rebirth-item.r-itm010{background-position:-516px 0;width:43px}
+.items-container .rebirth-item.r-itm011{background-position:-569px 0;width:47px}
+.items-container .rebirth-item.r-itm012{background-position:-626px 0;width:47px}
+.items-container .rebirth-item.r-itm013{background-position:-683px 0;width:25px}
+.items-container .rebirth-item.r-itm014{background-position:-718px 0;width:25px}
+.items-container .rebirth-item.r-itm015{background-position:-753px 0}
+.items-container .rebirth-item.r-itm016{background-position:-813px 0;width:53px}
+.items-container .rebirth-item.r-itm017{background-position:-876px 0;width:34px}
+.items-container .rebirth-item.r-itm018{background-position:-920px 0;width:38px}
+.items-container .rebirth-item.r-itm019{background-position:-968px 0;width:56px}
+.items-container .rebirth-item.r-itm020{background-position:-1034px 0;width:26px}
+.items-container .rebirth-item.r-itm021{background-position:-1070px 0;width:53px}
+.items-container .rebirth-item.r-itm022{background-position:-1133px 0;width:41px}
+.items-container .rebirth-item.r-itm023{background-position:-1184px 0;width:48px}
+.items-container .rebirth-item.r-itm024{background-position:-1242px 0;width:40px}
+.items-container .rebirth-item.r-itm025{background-position:-1292px 0;width:52px}
+.items-container .rebirth-item.r-itm026{background-position:-1354px 0;width:55px}
+.items-container .rebirth-item.r-itm027{background-position:-1419px 0;width:29px}
+.items-container .rebirth-item.r-itm028{background-position:-1458px 0;width:58px}
+.items-container .rebirth-item.r-itm029{background-position:-1526px 0;width:59px}
+.items-container .rebirth-item.r-itm030{background-position:-1595px 0;width:56px}
+.items-container .rebirth-item.r-itm031{background-position:-1661px 0;width:24px}
+.items-container .rebirth-item.r-itm032{background-position:-1695px 0;width:43px}
+.items-container .rebirth-item.r-itm033{background-position:-1748px 0;width:41px}
+.items-container .rebirth-item.r-itm034{background-position:-1799px 0;width:41px}
+.items-container .rebirth-item.r-itm035{background-position:-1850px 0;width:41px}
+.items-container .rebirth-item.r-itm036{background-position:-1901px 0;width:56px}
+.items-container .rebirth-item.r-itm037{background-position:-1967px 0;width:40px}
+.items-container .rebirth-item.r-itm038{background-position:-2017px 0;width:43px}
+.items-container .rebirth-item.r-itm039{background-position:-2070px 0;width:58px}
+.items-container .rebirth-item.r-itm040{background-position:-2138px 0;width:48px}
+.items-container .rebirth-item.r-itm041{background-position:-2196px 0;width:30px}
+.items-container .rebirth-item.r-itm042{background-position:-2236px 0;width:55px}
+.items-container .rebirth-item.r-itm044{background-position:-2301px 0;width:33px}
+.items-container .rebirth-item.r-itm045{background-position:-2344px 0;width:60px}
+.items-container .rebirth-item.r-itm046{background-position:-2414px 0;width:43px}
+.items-container .rebirth-item.r-itm047{background-position:-2467px 0;width:33px}
+.items-container .rebirth-item.r-itm048{background-position:-2510px 0;width:26px}
+.items-container .rebirth-item.r-itm049{background-position:-2546px 0;width:52px}
+.items-container .rebirth-item.r-itm050{background-position:-2608px 0;width:48px}
+.items-container .rebirth-item.r-itm051{background-position:-2666px 0;width:43px}
+.items-container .rebirth-item.r-itm052{background-position:-2719px 0;width:30px}
+.items-container .rebirth-item.r-itm053{background-position:-2759px 0;width:48px}
+.items-container .rebirth-item.r-itm054{background-position:-2817px 0;width:40px}
+.items-container .rebirth-item.r-itm055{background-position:-2867px 0;width:40px}
+.items-container .rebirth-item.r-itm056{background-position:-2917px 0}
+.items-container .rebirth-item.r-itm057{background-position:-2977px 0;width:81px}
+.items-container .rebirth-item.r-itm058{background-position:-3068px 0;width:41px}
+.items-container .rebirth-item.r-itm060{background-position:-3119px 0;width:41px}
+.items-container .rebirth-item.r-itm062{background-position:-3170px 0;width:70px}
+.items-container .rebirth-item.r-itm063{background-position:-3250px 0;width:38px}
+.items-container .rebirth-item.r-itm064{background-position:-3298px 0;width:43px}
+.items-container .rebirth-item.r-itm065{background-position:-3351px 0;width:41px}
+.items-container .rebirth-item.r-itm066{background-position:-3402px 0;width:40px}
+.items-container .rebirth-item.r-itm067{background-position:-3452px 0;width:36px}
+.items-container .rebirth-item.r-itm068{background-position:-3498px 0;width:52px}
+.items-container .rebirth-item.r-itm069{background-position:-3560px 0;width:35px}
+.items-container .rebirth-item.r-itm070{background-position:-3605px 0;width:25px}
+.items-container .rebirth-item.r-itm071{background-position:-3640px 0;width:41px}
+.items-container .rebirth-item.r-itm072{background-position:-3691px 0;width:48px}
+.items-container .rebirth-item.r-itm073{background-position:-3749px 0;width:53px}
+.items-container .rebirth-item.r-itm074{background-position:-3812px 0;width:45px}
+.items-container .rebirth-item.r-itm075{background-position:-3867px 0;width:66px}
+.items-container .rebirth-item.r-itm076{background-position:-3943px 0;width:75px}
+.items-container .rebirth-item.r-itm077{background-position:-4028px 0;width:34px}
+.items-container .rebirth-item.r-itm078{background-position:-4072px 0;width:41px}
+.items-container .rebirth-item.r-itm079{background-position:-4123px 0;width:53px}
+.items-container .rebirth-item.r-itm080{background-position:-4186px 0;width:35px}
+.items-container .rebirth-item.r-itm081{background-position:-4231px 0;width:67px}
+.items-container .rebirth-item.r-itm082{background-position:-4308px 0;width:37px}
+.items-container .rebirth-item.r-itm083{background-position:-4355px 0;width:29px}
+.items-container .rebirth-item.r-itm084{background-position:-4394px 0;width:30px}
+.items-container .rebirth-item.r-itm085{background-position:-4434px 0;width:54px}
+.items-container .rebirth-item.r-itm086{background-position:-4498px 0;width:38px}
+.items-container .rebirth-item.r-itm087{background-position:-4546px 0;width:46px}
+.items-container .rebirth-item.r-itm088{background-position:-4602px 0;width:38px}
+.items-container .rebirth-item.r-itm089{background-position:-4650px 0;width:78px}
+.items-container .rebirth-item.r-itm090{background-position:-4738px 0;width:53px}
+.items-container .rebirth-item.r-itm091{background-position:-4801px 0;width:48px}
+.items-container .rebirth-item.r-itm092{background-position:-4859px 0;width:63px}
+.items-container .rebirth-item.r-itm093{background-position:-4932px 0;width:42px}
+.items-container .rebirth-item.r-itm094{background-position:-4984px 0;width:35px}
+.items-container .rebirth-item.r-itm095{background-position:-5029px 0;width:39px}
+.items-container .rebirth-item.r-itm096{background-position:-5078px 0;width:38px}
+.items-container .rebirth-item.r-itm097{background-position:-5126px 0;width:41px}
+.items-container .rebirth-item.r-itm098{background-position:-5177px 0;width:42px}
+.items-container .rebirth-item.r-itm099{background-position:-5229px 0}
+.items-container .rebirth-item.r-itm100{background-position:-5289px 0;width:39px}
+.items-container .rebirth-item.r-itm101{background-position:-5338px 0;width:78px}
+.items-container .rebirth-item.r-itm102{background-position:-5426px 0;width:55px}
+.items-container .rebirth-item.r-itm103{background-position:-5491px 0}
+.items-container .rebirth-item.r-itm104{background-position:-5551px 0;width:41px}
+.items-container .rebirth-item.r-itm105{background-position:-5602px 0;width:55px}
+.items-container .rebirth-item.r-itm106{background-position:-5667px 0;width:41px}
+.items-container .rebirth-item.r-itm107{background-position:-5718px 0;width:45px}
+.items-container .rebirth-item.r-itm108{background-position:-5773px 0}
+.items-container .rebirth-item.r-itm109{background-position:-5833px 0;width:53px}
+.items-container .rebirth-item.r-itm110{background-position:-5891px 0;width:47px}
+.items-container .rebirth-item.r-itm111{background-position:-5951px 0;width:36px}
+.items-container .rebirth-item.r-itm112{background-position:-5997px 0;width:64px}
+.items-container .rebirth-item.r-itm113{background-position:-6071px 0;width:33px}
+.items-container .rebirth-item.r-itm114{background-position:-6114px 0;width:20px}
+.items-container .rebirth-item.r-itm115{background-position:-6144px 0;width:67px}
+.items-container .rebirth-item.r-itm116{background-position:-6221px 0;width:41px}
+.items-container .rebirth-item.r-itm117{background-position:-6272px 0;width:55px}
+.items-container .rebirth-item.r-itm118{background-position:-6337px 0;width:48px}
+.items-container .rebirth-item.r-itm119{background-position:-6395px 0;width:43px}
+.items-container .rebirth-item.r-itm120{background-position:-6448px 0;width:33px}
+.items-container .rebirth-item.r-itm121{background-position:-6491px 0;width:82px}
+.items-container .rebirth-item.r-itm122{background-position:-6583px 0;width:57px}
+.items-container .rebirth-item.r-itm123{background-position:-6650px 0;width:41px}
+.items-container .rebirth-item.r-itm124{background-position:-6701px 0;width:39px}
+.items-container .rebirth-item.r-itm125{background-position:-6750px 0;width:37px}
+.items-container .rebirth-item.r-itm126{background-position:-6797px 0;width:35px}
+.items-container .rebirth-item.r-itm127{background-position:-6842px 0;width:57px}
+.items-container .rebirth-item.r-itm128{background-position:-6909px 0;width:81px}
+.items-container .rebirth-item.r-itm129{background-position:-7000px 0;width:44px}
+.items-container .rebirth-item.r-itm130{background-position:-7054px 0;width:36px}
+.items-container .rebirth-item.r-itm131{background-position:-7100px 0;width:35px}
+.items-container .rebirth-item.r-itm132{background-position:-7145px 0;width:54px}
+.items-container .rebirth-item.r-itm133{background-position:-7209px 0;width:39px}
+.items-container .rebirth-item.r-itm134{background-position:-7258px 0;width:52px}
+.items-container .rebirth-item.r-itm135{background-position:-7320px 0;width:53px}
+.items-container .rebirth-item.r-itm136{background-position:-7383px 0;width:44px}
+.items-container .rebirth-item.r-itm137{background-position:-7437px 0;width:48px}
+.items-container .rebirth-item.r-itm138{background-position:-7495px 0;width:41px}
+.items-container .rebirth-item.r-itm139{background-position:-7546px 0;width:73px}
+.items-container .rebirth-item.r-itm140{background-position:-7629px 0;width:45px}
+.items-container .rebirth-item.r-itm141{background-position:-7684px 0;width:47px}
+.items-container .rebirth-item.r-itm142{background-position:-7741px 0;width:48px}
+.items-container .rebirth-item.r-itm143{background-position:-7799px 0;width:25px}
+.items-container .rebirth-item.r-itm144{background-position:-7834px 0;width:43px}
+.items-container .rebirth-item.r-itm145{background-position:-7887px 0}
+.items-container .rebirth-item.r-itm146{background-position:-7947px 0;width:39px}
+.items-container .rebirth-item.r-itm147{background-position:-7996px 0}
+.items-container .rebirth-item.r-itm148{background-position:-8056px 0;width:36px}
+.items-container .rebirth-item.r-itm149{background-position:-8102px 0;width:40px}
+.items-container .rebirth-item.r-itm150{background-position:-8152px 0;width:77px}
+.items-container .rebirth-item.r-itm151{background-position:-8239px 0;width:59px}
+.items-container .rebirth-item.r-itm152{background-position:-8308px 0;width:57px}
+.items-container .rebirth-item.r-itm153{background-position:-8375px 0;width:57px}
+.items-container .rebirth-item.r-itm154{background-position:-8442px 0;width:33px}
+.items-container .rebirth-item.r-itm155{background-position:-8483px 0;width:34px}
+.items-container .rebirth-item.r-itm156{background-position:-8523px 0;width:43px}
+.items-container .rebirth-item.r-itm157{background-position:-8576px 0;width:31px}
+.items-container .rebirth-item.r-itm158{background-position:-8617px 0;width:45px}
+.items-container .rebirth-item.r-itm159{background-position:-8672px 0;width:48px}
+.items-container .rebirth-item.r-itm160{background-position:-8730px 0;width:47px}
+.items-container .rebirth-item.r-itm161{background-position:-8787px 0;width:44px}
+.items-container .rebirth-item.r-itm162{background-position:-8841px 0;width:44px}
+.items-container .rebirth-item.r-itm163{background-position:-8895px 0;width:39px}
+.items-container .rebirth-item.r-itm164{background-position:-8944px 0;width:44px}
+.items-container .rebirth-item.r-itm165{background-position:-8998px 0;width:48px}
+.items-container .rebirth-item.r-itm166{background-position:-9056px 0}
+.items-container .rebirth-item.r-itm167{background-position:-9116px 0;width:39px}
+.items-container .rebirth-item.r-itm168{background-position:-9165px 0;width:28px}
+.items-container .rebirth-item.r-itm169{background-position:-9204px 0;width:52px}
+.items-container .rebirth-item.r-itm170{background-position:-9270px 0;width:55px}
+.items-container .rebirth-item.r-itm171{background-position:-9335px 0;width:59px}
+.items-container .rebirth-item.r-itm172{background-position:-9404px 0;width:20px}
+.items-container .rebirth-item.r-itm173{background-position:-9434px 0;width:41px}
+.items-container .rebirth-item.r-itm174{background-position:-9485px 0;width:59px}
+.items-container .rebirth-item.r-itm175{background-position:-9554px 0;width:45px}
+.items-container .rebirth-item.r-itm176{background-position:-9609px 0}
+.items-container .rebirth-item.r-itm177{background-position:-9669px 0;width:59px}
+.items-container .rebirth-item.r-itm178{background-position:-9738px 0;width:39px}
+.items-container .rebirth-item.r-itm179{background-position:-9787px 0;width:55px}
+.items-container .rebirth-item.r-itm180{background-position:-9852px 0;width:36px}
+.items-container .rebirth-item.r-itm181{background-position:-9898px 0;width:36px}
+.items-container .rebirth-item.r-itm182{background-position:-9944px 0;width:33px}
+.items-container .rebirth-item.r-itm183{background-position:-9987px 0;width:64px}
+.items-container .rebirth-item.r-itm184{background-position:-10061px 0;width:41px}
+.items-container .rebirth-item.r-itm185{background-position:-10112px 0;width:62px}
+.items-container .rebirth-item.r-itm186{background-position:-10184px 0;width:55px}
+.items-container .rebirth-item.r-itm187{background-position:-10249px 0;width:65px}
+.items-container .rebirth-item.r-itm188{background-position:-10324px 0;width:55px}
+.items-container .rebirth-item.r-itm189{background-position:-10389px 0}
+.items-container .rebirth-item.r-itm190{background-position:-10449px 0;width:52px}
+.items-container .rebirth-item.r-itm191{background-position:-10511px 0;width:38px}
+.items-container .rebirth-item.r-itm192{background-position:-10559px 0;width:41px}
+.items-container .rebirth-item.r-itm193{background-position:-10610px 0;width:35px}
+.items-container .rebirth-item.r-itm194{background-position:-10655px 0}
+.items-container .rebirth-item.r-itm195{background-position:-10715px 0;width:62px}
+.items-container .rebirth-item.r-itm196{background-position:-10787px 0;width:43px}
+.items-container .rebirth-item.r-itm197{background-position:-10840px 0;width:40px}
+.items-container .rebirth-item.r-itm198{background-position:-10890px 0;width:55px}
+.items-container .rebirth-item.r-itm199{background-position:-10955px 0;width:36px}
+.items-container .rebirth-item.r-itm200{background-position:-11001px 0}
+.items-container .rebirth-item.r-itm201{background-position:-11061px 0;width:68px}
+.items-container .rebirth-item.r-itm202{background-position:-11139px 0;width:68px}
+.items-container .rebirth-item.r-itm203{background-position:-11217px 0;width:58px}
+.items-container .rebirth-item.r-itm204{background-position:-11285px 0;width:63px}
+.items-container .rebirth-item.r-itm205{background-position:-11358px 0;width:48px}
+.items-container .rebirth-item.r-itm206{background-position:-11416px 0;width:52px}
+.items-container .rebirth-item.r-itm207{background-position:-11478px 0;width:48px}
+.items-container .rebirth-item.r-itm208{background-position:-11536px 0;width:71px}
+.items-container .rebirth-item.r-itm209{background-position:-11617px 0;width:52px}
+.items-container .rebirth-item.r-itm210{background-position:-11679px 0;width:44px}
+.items-container .rebirth-item.r-itm211{background-position:-11733px 0}
+.items-container .rebirth-item.r-itm212{background-position:-11793px 0}
+.items-container .rebirth-item.r-itm213{background-position:-11853px 0;width:82px}
+.items-container .rebirth-item.r-itm214{background-position:-11945px 0;width:33px}
+.items-container .rebirth-item.r-itm215{background-position:-11988px 0;width:56px}
+.items-container .rebirth-item.r-itm216{background-position:-12054px 0;width:35px}
+.items-container .rebirth-item.r-itm217{background-position:-12099px 0}
+.items-container .rebirth-item.r-itm218{background-position:-12159px 0;width:60px}
+.items-container .rebirth-item.r-itm219{background-position:-12229px 0;width:55px}
+.items-container .rebirth-item.r-itm220{background-position:-12294px 0;width:52px}
+.items-container .rebirth-item.r-itm221{background-position:-12356px 0;width:45px}
+.items-container .rebirth-item.r-itm222{background-position:-12411px 0;width:53px}
+.items-container .rebirth-item.r-itm223{background-position:-12474px 0;width:48px}
+.items-container .rebirth-item.r-itm224{background-position:-12532px 0;width:52px}
+.items-container .rebirth-item.r-itm225{background-position:-12594px 0;width:55px}
+.items-container .rebirth-item.r-itm226{background-position:-12659px 0}
+.items-container .rebirth-item.r-itm227{background-position:-12719px 0;width:68px}
+.items-container .rebirth-item.r-itm228{background-position:-12797px 0}
+.items-container .rebirth-item.r-itm229{background-position:-12857px 0;width:45px}
+.items-container .rebirth-item.r-itm230{background-position:-12912px 0;width:54px}
+.items-container .rebirth-item.r-itm231{background-position:-12976px 0;width:53px}
+.items-container .rebirth-item.r-itm232{background-position:-13039px 0;width:44px}
+.items-container .rebirth-item.r-itm233{background-position:-13093px 0}
+.items-container .rebirth-item.r-itm234{background-position:-13153px 0;width:60px}
+.items-container .rebirth-item.r-itm236{background-position:-13223px 0;width:65px}
+.items-container .rebirth-item.r-itm237{background-position:-13298px 0;width:58px}
+.items-container .rebirth-item.r-itm238{background-position:-13366px 0;width:61px}
+.items-container .rebirth-item.r-itm239{background-position:-13437px 0;width:79px}
+.items-container .rebirth-item.r-itm240{background-position:-13526px 0;width:25px}
+.items-container .rebirth-item.r-itm241{background-position:-13561px 0;width:53px}
+.items-container .rebirth-item.r-itm242{background-position:-13624px 0;width:45px}
+.items-container .rebirth-item.r-itm243{background-position:-13679px 0}
+.items-container .rebirth-item.r-itm244{background-position:-13739px 0;width:34px}
+.items-container .rebirth-item.r-itm245{background-position:-13783px 0;width:62px}
+.items-container .rebirth-item.r-itm246{background-position:-13855px 0;width:48px}
+.items-container .rebirth-item.r-itm247{background-position:-13913px 0;width:52px}
+.items-container .rebirth-item.r-itm248{background-position:-13975px 0;width:52px}
+.items-container .rebirth-item.r-itm249{background-position:-14037px 0;width:48px}
+.items-container .rebirth-item.r-itm250{background-position:-14095px 0}
+.items-container .rebirth-item.r-itm251{background-position:-14155px 0;width:42px}
+.items-container .rebirth-item.r-itm252{background-position:-14207px 0;width:48px}
+.items-container .rebirth-item.r-itm253{background-position:-14265px 0;width:48px}
+.items-container .rebirth-item.r-itm254{background-position:-14323px 0}
+.items-container .rebirth-item.r-itm255{background-position:-14383px 0;width:48px}
+.items-container .rebirth-item.r-itm256{background-position:-14441px 0;width:48px}
+.items-container .rebirth-item.r-itm257{background-position:-14499px 0;width:42px}
+.items-container .rebirth-item.r-itm258{background-position:-14551px 0;width:54px}
+.items-container .rebirth-item.r-itm259{background-position:-14615px 0;width:57px}
+.items-container .rebirth-item.r-itm260{background-position:-14682px 0;width:44px}
+.items-container .rebirth-item.r-itm261{background-position:-14736px 0;width:55px}
+.items-container .rebirth-item.r-itm262{background-position:-14801px 0;width:45px}
+.items-container .rebirth-item.r-itm264{background-position:-14856px 0;width:71px}
+.items-container .rebirth-item.r-itm265{background-position:-14937px 0}
+.items-container .rebirth-item.r-itm266{background-position:-14997px 0;width:53px}
+.items-container .rebirth-item.r-itm267{background-position:-15060px 0;width:33px}
+.items-container .rebirth-item.r-itm268{background-position:-15103px 0;width:36px}
+.items-container .rebirth-item.r-itm269{background-position:-15149px 0;width:64px}
+.items-container .rebirth-item.r-itm270{background-position:-15223px 0;width:75px}
+.items-container .rebirth-item.r-itm271{background-position:-15308px 0;width:35px}
+.items-container .rebirth-item.r-itm272{background-position:-15353px 0;width:55px}
+.items-container .rebirth-item.r-itm273{background-position:-15418px 0}
+.items-container .rebirth-item.r-itm274{background-position:-15478px 0;width:57px}
+.items-container .rebirth-item.r-itm275{background-position:-15545px 0;width:52px}
+.items-container .rebirth-item.r-itm276{background-position:-15605px 0;width:41px}
+.items-container .rebirth-item.r-itm277{background-position:-15656px 0;width:60px}
+.items-container .rebirth-item.r-itm278{background-position:-15726px 0;width:38px;cursor:url(images/spirit-small.png),auto}
+.items-container .rebirth-item.r-itm279{background-position:-15774px 0;width:52px}
+.items-container .rebirth-item.r-itm280{background-position:-15836px 0}
+.items-container .rebirth-item.r-itm281{background-position:-15896px 0;width:42px}
+.items-container .rebirth-item.r-itm282{background-position:-15948px 0;width:45px}
+.items-container .rebirth-item.r-itm283{background-position:-16003px 0}
+.items-container .rebirth-item.r-itm284{background-position:-16063px 0;width:59px}
+.items-container .rebirth-item.r-itm285{background-position:-16132px 0}
+.items-container .rebirth-item.r-itm286{background-position:-16192px 0;width:38px}
+.items-container .rebirth-item.r-itm287{background-position:-16240px 0;width:41px}
+.items-container .rebirth-item.r-itm288{background-position:-16291px 0;width:54px}
+.items-container .rebirth-item.r-itm289{background-position:-16355px 0;width:44px}
+.items-container .rebirth-item.r-itm290{background-position:-16409px 0;width:40px}
+.items-container .rebirth-item.r-itm291{background-position:-16459px 0;width:81px}
+.items-container .rebirth-item.r-itm292{background-position:-16550px 0;width:41px}
+.items-container .rebirth-item.r-itm293{background-position:-16601px 0;width:40px}
+.items-container .rebirth-item.r-itm294{background-position:-16651px 0;width:70px}
+.items-container .rebirth-item.r-itm295{background-position:-16731px 0;width:55px}
+.items-container .rebirth-item.r-itm296{background-position:-16796px 0;width:60px}
+.items-container .rebirth-item.r-itm297{background-position:-16866px 0;width:52px}
+.items-container .rebirth-item.r-itm298{background-position:-16928px 0;width:54px}
+.items-container .rebirth-item.r-itm299{background-position:-16992px 0;width:52px}
+.items-container .rebirth-item.r-itm300{background-position:-17054px 0;width:58px}
+.items-container .rebirth-item.r-itm301{background-position:-17122px 0;width:48px}
+.items-container .rebirth-item.r-itm302{background-position:-17180px 0;width:58px}
+.items-container .rebirth-item.r-itm303{background-position:-17248px 0}
+.items-container .rebirth-item.r-itm304{background-position:-17308px 0;width:60px}
+.items-container .rebirth-item.r-itm305{background-position:-17378px 0;width:60px}
+.items-container .rebirth-item.r-itm306{background-position:-17448px 0}
+.items-container .rebirth-item.r-itm307{background-position:-17508px 0;width:63px}
+.items-container .rebirth-item.r-itm308{background-position:-17581px 0;width:67px}
+.items-container .rebirth-item.r-itm309{background-position:-17658px 0}
+.items-container .rebirth-item.r-itm310{background-position:-17718px 0;width:75px}
+.items-container .rebirth-item.r-itm311{background-position:-17803px 0;width:38px}
+.items-container .rebirth-item.r-itm312{background-position:-17851px 0}
+.items-container .rebirth-item.r-itm313{background-position:-17911px 0;width:43px}
+.items-container .rebirth-item.r-itm314{background-position:-17964px 0;width:60px}
+.items-container .rebirth-item.r-itm315{background-position:-18034px 0;width:53px}
+.items-container .rebirth-item.r-itm316{background-position:-18097px 0}
+.items-container .rebirth-item.r-itm317{background-position:-18157px 0}
+.items-container .rebirth-item.r-itm318{background-position:-18217px 0;width:60px}
+.items-container .rebirth-item.r-itm319{background-position:-18287px 0;width:53px}
+.items-container .rebirth-item.r-itm320{background-position:-18350px 0;width:52px}
+.items-container .rebirth-item.r-itm321{background-position:-18412px 0;width:58px}
+.items-container .rebirth-item.r-itm322{background-position:-18480px 0;width:46px}
+.items-container .rebirth-item.r-itm323{background-position:-18536px 0;width:53px}
+.items-container .rebirth-item.r-itm324{background-position:-18599px 0;width:58px}
+.items-container .rebirth-item.r-itm325{background-position:-18667px 0;width:48px}
+.items-container .rebirth-item.r-itm326{background-position:-18725px 0;width:65px}
+.items-container .rebirth-item.r-itm327{background-position:-18800px 0}
+.items-container .rebirth-item.r-itm328{background-position:-18860px 0}
+.items-container .rebirth-item.r-itm329{background-position:-18920px 0}
+.items-container .rebirth-item.r-itm330{background-position:-18980px 0;width:35px}
+.items-container .rebirth-item.r-itm331{background-position:-19025px 0;width:64px}
+.items-container .rebirth-item.r-itm332{background-position:-19099px 0}
+.items-container .rebirth-item.r-itm333{background-position:-19159px 0}
+.items-container .rebirth-item.r-itm334{background-position:-19219px 0}
+.items-container .rebirth-item.r-itm335{background-position:-19279px 0}
+.items-container .rebirth-item.r-itm336{background-position:-19339px 0;width:33px}
+.items-container .rebirth-item.r-itm337{background-position:-19382px 0}
+.items-container .rebirth-item.r-itm338{background-position:-19442px 0;width:35px}
+.items-container .rebirth-item.r-itm339{background-position:-19487px 0;width:64px}
+.items-container .rebirth-item.r-itm340{background-position:-19561px 0;width:30px}
+.items-container .rebirth-item.r-itm341{background-position:-19601px 0}
+.items-container .rebirth-item.r-itm342{background-position:-19661px 0;width:34px}
+.items-container .rebirth-item.r-itm343{background-position:-19705px 0;width:61px}
+.items-container .rebirth-item.r-itm344{background-position:-19776px 0;width:41px}
+.items-container .rebirth-item.r-itm345{background-position:-19827px 0;width:38px}
+.items-container .rebirth-item.r-itm346{background-position:-19875px 0;width:58px}
+.ap-item{background:url("images/ap-items10.png") no-repeat top left;width:50px;height:50px;image-rendering:pixelated}
+.ap-item.ap-itm442{background-position:0 0;width:57px}
+.ap-item.ap-itm443{background-position:-67px 0;width:57px}
+.ap-item.ap-itm444{background-position:-134px 0}
+.ap-item.ap-itm445{background-position:-194px 0;width:42px}
+.ap-item.ap-itm446{background-position:-246px 0;width:40px}
+.ap-item.ap-itm447{background-position:-296px 0;width:69px}
+.ap-item.ap-itm448{background-position:-375px 0;width:42px}
+.ap-item.ap-itm449{background-position:-427px 0}
+.ap-item.ap-itm450{background-position:-487px 0}
+.ap-item.ap-itm451{background-position:-547px 0;width:59px}
+.ap-item.ap-itm452{background-position:-616px 0;width:42px}
+.ap-item.ap-itm453{background-position:-668px 0;width:44px}
+.ap-item.ap-itm454{background-position:-722px 0;width:82px}
+.ap-item.ap-itm455{background-position:-814px 0;width:45px}
+.ap-item.ap-itm456{background-position:-869px 0}
+.ap-item.ap-itm457{background-position:-929px 0;width:45px}
+.ap-item.ap-itm458{background-position:-984px 0;width:53px}
+.ap-item.ap-itm459{background-position:-1047px 0;width:31px}
+.ap-item.ap-itm460{background-position:-1088px 0}
+.ap-item.ap-itm461{background-position:-1148px 0}
+.ap-item.ap-itm462{background-position:-1208px 0}
+.ap-item.ap-itm463{background-position:-1268px 0;width:31px}
+.ap-item.ap-itm464{background-position:-1309px 0;width:59px}
+.ap-item.ap-itm465{background-position:-1378px 0;width:53px}
+.ap-item.ap-itm466{background-position:-1441px 0;width:52px}
+.ap-item.ap-itm467{background-position:-1503px 0;width:27px}
+.ap-item.ap-itm468{background-position:-1540px 0;width:40px}
+.ap-item.ap-itm469{background-position:-1590px 0;width:61px}
+.ap-item.ap-itm470{background-position:-1661px 0;width:48px}
+.ap-item.ap-itm471{background-position:-1719px 0}
+.ap-item.ap-itm472{background-position:-1779px 0;width:30px}
+.ap-item.ap-itm473{background-position:-1819px 0}
+.ap-item.ap-itm474{background-position:-1879px 0;width:56px}
+.ap-item.ap-itm475{background-position:-1945px 0;width:57px}
+.ap-item.ap-itm476{background-position:-2012px 0;width:55px}
+.ap-item.ap-itm477{background-position:-2077px 0;width:44px}
+.ap-item.ap-itm478{background-position:-2131px 0;width:33px}
+.ap-item.ap-itm479{background-position:-2174px 0;width:42px}
+.ap-item.ap-itm480{background-position:-2226px 0;width:52px}
+.ap-item.ap-itm481{background-position:-2288px 0}
+.ap-item.ap-itm482{background-position:-2348px 0;width:31px}
+.ap-item.ap-itm483{background-position:-2389px 0;width:54px}
+.ap-item.ap-itm484{background-position:-2453px 0;width:70px}
+.ap-item.ap-itm485{background-position:-2533px 0;width:48px}
+.ap-item.ap-itm486{background-position:-2591px 0;width:71px}
+.ap-item.ap-itm487{background-position:-2672px 0}
+.ap-item.ap-itm488{background-position:-2732px 0}
+.ap-item.ap-itm489{background-position:-2792px 0}
+.ap-item.ap-itm490{background-position:-2852px 0}
+.ap-item.ap-itm491{background-position:-2912px 0;width:40px}
+.ap-item.ap-itm492{background-position:-2962px 0;width:55px}
+.ap-item.ap-itm493{background-position:-3027px 0;width:38px}
+.ap-item.ap-itm494{background-position:-3075px 0;width:57px}
+.ap-item.ap-itm495{background-position:-3142px 0;width:33px}
+.ap-item.ap-itm496{background-position:-3185px 0;width:36px}
+.ap-item.ap-itm497{background-position:-3231px 0;width:73px}
+.ap-item.ap-itm498{background-position:-3314px 0;width:53px}
+.ap-item.ap-itm499{background-position:-3377px 0;width:33px}
+.ap-item.ap-itm500{background-position:-3420px 0;width:43px}
+.ap-item.ap-itm501{background-position:-3473px 0;width:48px}
+.ap-item.ap-itm502{background-position:-3531px 0;width:73px}
+.ap-item.ap-itm503{background-position:-3614px 0;width:35px}
+.ap-item.ap-itm504{background-position:-3659px 0;width:45px}
+.ap-item.ap-itm505{background-position:-3714px 0;width:38px}
+.ap-item.ap-itm506{background-position:-3762px 0}
+.ap-item.ap-itm507{background-position:-3822px 0;width:45px}
+.ap-item.ap-itm508{background-position:-3877px 0;width:37px}
+.ap-item.ap-itm509{background-position:-3924px 0;width:38px}
+.ap-item.ap-itm510{background-position:-3972px 0;width:53px}
+.ap-item.ap-itm511{background-position:-4035px 0;width:72px}
+.ap-item.ap-itm512{background-position:-4117px 0;width:71px}
+.ap-item.ap-itm513{background-position:-4198px 0;width:30px}
+.ap-item.ap-itm514{background-position:-4236px 0;width:56px}
+.ap-item.ap-itm515{background-position:-4301px 0;width:50px}
+.ap-item.ap-itm516{background-position:-4361px 0;width:42px}
+.ap-item.ap-itm517{background-position:-4413px 0;width:46px}
+.ap-item.ap-itm518{background-position:-4469px 0;width:55px}
+.ap-item.ap-itm519{background-position:-4534px 0;width:50px}
+.ap-item.ap-itm520{background-position:-4594px 0;width:47px}
+.ap-item.ap-itm521{background-position:-4651px 0;width:50px}
+.ap-item.ap-itm522{background-position:-4711px 0;width:38px}
+.ap-item.ap-itm523{background-position:-4759px 0;width:53px}
+.ap-item.ap-itm524{background-position:-4822px 0;width:50px}
+.ap-item.ap-itm525{background-position:-4882px 0;width:55px}
+.ap-item.ap-itm526{background-position:-4947px 0;width:45px}
+.ap-item.ap-itm527{background-position:-5002px 0;width:55px}
+.ap-item.ap-itm528{background-position:-5067px 0;width:50px}
+.ap-item.ap-itm529{background-position:-5127px 0;width:60px}
+.ap-item.ap-itm530{background-position:-5197px 0}
+.ap-item.ap-itm531{background-position:-5256px 0;width:57px}
+.ap-item.ap-itm532{background-position:-5323px 0;width:54px}
+.ap-item.ap-itm533{background-position:-5387px 0}
+.ap-item.ap-itm534{background-position:-5447px 0;width:56px}
+.ap-item.ap-itm535{background-position:-5513px 0;width:60px}
+.ap-item.ap-itm536{background-position:-5583px 0}
+.ap-item.ap-itm537{background-position:-5643px 0;width:42px}
+.ap-item.ap-itm538{background-position:-5695px 0;width:40px}
+.ap-item.ap-itm539{background-position:-5745px 0;width:42px}
+.ap-item.ap-itm540{background-position:-5797px 0;width:48px}
+.ap-item.ap-itm541{background-position:-5855px 0;width:46px}
+.ap-item.ap-itm542{background-position:-5911px 0;width:38px}
+.ap-item.ap-itm543{background-position:-5959px 0;width:48px}
+.ap-item.ap-itm544{background-position:-6017px 0;width:69px}
+.ap-item.ap-itm545{background-position:-6096px 0;width:38px}
+.ap-item.ap-itm546{background-position:-6144px 0;width:39px}
+.ap-item.ap-itm547{background-position:-6193px 0;width:36px}
+.ap-item.ap-itm548{background-position:-6239px 0;width:42px}
+.ap-item.ap-itm549{background-position:-6291px 0;width:56px}
+.ap-item.ap-itm550{background-position:-6357px 0;width:27px}
+.ap-item.ap-itm551{background-position:-6399px 0;width:30px}
+.ap-item.ap-itm552{background-position:-6439px 0;width:37px}
+.rep-item{background:url("images/repentance-items2.png") no-repeat top left;width:50px;height:50px;image-rendering:pixelated}
+.rep-item.rep553{background-position:0 0;width:52px}
+.rep-item.rep554{background-position:-62px 0}
+.rep-item.rep555{background-position:-122px 0;width:34px}
+.rep-item.rep556{background-position:-166px 0;width:35px}
+.rep-item.rep557{background-position:-211px 0;width:46px}
+.rep-item.rep558{background-position:-267px 0;width:52px}
+.rep-item.rep559{background-position:-329px 0;width:46px}
+.rep-item.rep560{background-position:-385px 0;width:38px}
+.rep-item.rep561{background-position:-433px 0;width:38px}
+.rep-item.rep562{background-position:-481px 0;width:63px}
+.rep-item.rep563{background-position:-554px 0;width:48px}
+.rep-item.rep564{background-position:-612px 0;width:68px}
+.rep-item.rep565{background-position:-690px 0;width:46px}
+.rep-item.rep566{background-position:-746px 0;width:32px}
+.rep-item.rep567{background-position:-788px 0;width:22px}
+.rep-item.rep568{background-position:-820px 0}
+.rep-item.rep569{background-position:-880px 0;width:40px}
+.rep-item.rep570{background-position:-930px 0;width:55px}
+.rep-item.rep571{background-position:-995px 0;width:43px}
+.rep-item.rep572{background-position:-1048px 0;width:52px}
+.rep-item.rep573{background-position:-1110px 0;width:36px}
+.rep-item.rep575{background-position:-1156px 0;width:60px}
+.rep-item.rep574{background-position:-1226px 0;width:39px}
+.rep-item.rep576{background-position:-1275px 0;width:26px}
+.rep-item.rep578{background-position:-1311px 0;width:52px}
+.rep-item.rep579{background-position:-1373px 0;width:28px}
+.rep-item.rep580{background-position:-1411px 0;width:77px;height:40px}
+.rep-item.rep581{background-position:-1498px 0;width:45px}
+.rep-item.rep582{background-position:-1553px 0;width:52px}
+.rep-item.rep583{background-position:-1615px 0;width:39px}
+.rep-item.rep584{background-position:-1664px 0;width:41px}
+.rep-item.rep585{background-position:-1715px 0;width:54px}
+.rep-item.rep586{background-position:-1779px 0;width:36px}
+.rep-item.rep588{background-position:-1825px 0}
+.rep-item.rep589{background-position:-1885px 0;width:43px}
+.rep-item.rep590{background-position:-1938px 0;width:39px}
+.rep-item.rep591{background-position:-1987px 0;width:38px}
+.rep-item.rep592{background-position:-2035px 0}
+.rep-item.rep593{background-position:-2095px 0}
+.rep-item.rep594{background-position:-2155px 0;width:55px}
+.rep-item.rep595{background-position:-2220px 0;width:39px}
+.rep-item.rep596{background-position:-2269px 0;width:45px}
+.rep-item.rep597{background-position:-2324px 0;width:46px}
+.rep-item.rep598{background-position:-2380px 0;width:45px}
+.rep-item.rep599{background-position:-2435px 0;width:44px}
+.rep-item.rep600{background-position:-2489px 0;width:29px}
+.rep-item.rep601{background-position:-2528px 0;width:36px}
+.rep-item.rep602{background-position:-2574px 0;width:42px}
+.rep-item.rep603{background-position:-2626px 0;width:55px}
+.rep-item.rep604{background-position:-2691px 0;width:38px}
+.rep-item.rep605{background-position:-2739px 0;width:45px}
+.rep-item.rep606{background-position:-2794px 0;width:34px}
+.rep-item.rep607{background-position:-2838px 0;width:39px}
+.rep-item.rep608{background-position:-2887px 0;width:36px}
+.rep-item.rep609{background-position:-2933px 0}
+.rep-item.rep610{background-position:-2993px 0;width:57px}
+.rep-item.rep611{background-position:-3060px 0;width:40px}
+.rep-item.rep612{background-position:-3110px 0;width:38px}
+.rep-item.rep614{background-position:-3158px 0;width:58px}
+.rep-item.rep615{background-position:-3226px 0;width:58px}
+.rep-item.rep616{background-position:-3294px 0;width:30px}
+.rep-item.rep617{background-position:-3334px 0}
+.rep-item.rep618{background-position:-3394px 0;width:40px}
+.rep-item.rep619{background-position:-3444px 0}
+.rep-item.rep621{background-position:-3504px 0;width:61px}
+.rep-item.rep622{background-position:-3575px 0;width:55px}
+.rep-item.rep623{background-position:-3640px 0;width:28px}
+.rep-item.rep625{background-position:-3678px 0;width:52px}
+.rep-item.rep624{background-position:-3740px 0;width:35px}
+.rep-item.rep626{background-position:-3785px 0;width:64px;height:40px}
+.rep-item.rep627{background-position:-3859px 0;width:64px;height:27px}
+.rep-item.rep628{background-position:-3933px 0;width:44px}
+.rep-item.rep629{background-position:-3987px 0;width:52px}
+.rep-item.rep631{background-position:-4049px 0;width:48px}
+.rep-item.rep632{background-position:-4107px 0}
+.rep-item.rep633{background-position:-4170px 0;width:48px}
+.rep-item.rep634{background-position:-4230px 0;width:33px}
+.rep-item.rep635{background-position:-4273px 0;width:34px}
+.rep-item.rep636{background-position:-4317px 0;width:53px}
+.rep-item.rep637{background-position:-4380px 0;width:28px}
+.rep-item.rep638{background-position:-4418px 0;width:63px}
+.rep-item.rep639{background-position:-4491px 0;width:55px}
+.rep-item.rep641{background-position:-4556px 0;width:46px}
+.rep-item.rep640{background-position:-4612px 0;width:46px}
+.rep-item.rep642{background-position:-4668px 0;width:46px}
+.rep-item.rep643{background-position:-4724px 0;width:46px}
+.rep-item.rep644{background-position:-4780px 0;width:33px}
+.rep-item.rep645{background-position:-4823px 0;width:56px}
+.rep-item.rep646{background-position:-4889px 0;width:65px}
+.rep-item.rep647{background-position:-4964px 0;width:35px}
+.rep-item.rep649{background-position:-5009px 0;width:53px}
+.rep-item.rep650{background-position:-5072px 0}
+.rep-item.rep651{background-position:-5132px 0}
+.rep-item.rep652{background-position:-5192px 0;width:56px}
+.rep-item.rep653{background-position:-5258px 0;width:32px}
+.rep-item.rep654{background-position:-5300px 0;width:64px}
+.rep-item.rep655{background-position:-5374px 0}
+.rep-item.rep656{background-position:-5434px 0;width:20px}
+.rep-item.rep657{background-position:-5464px 0;width:68px}
+.rep-item.rep658{background-position:-5542px 0}
+.rep-item.rep659{background-position:-5602px 0;width:28px}
+.rep-item.rep660{background-position:-5640px 0}
+.rep-item.rep661{background-position:-5700px 0;width:71px;height:40px}
+.rep-item.rep662{background-position:-5781px 0}
+.rep-item.rep663{background-position:-5841px 0;width:46px}
+.rep-item.rep664{background-position:-5897px 0;width:56px}
+.rep-item.rep665{background-position:-5963px 0}
+.rep-item.rep667{background-position:-6023px 0;width:35px}
+.rep-item.rep668{background-position:-6068px 0;width:45px}
+.rep-item.rep669{background-position:-6123px 0;width:39px}
+.rep-item.rep670{background-position:-6172px 0}
+.rep-item.rep671{background-position:-6232px 0;width:45px}
+.rep-item.rep672{background-position:-6287px 0;width:71px;height:40px}
+.rep-item.rep673{background-position:-6368px 0}
+.rep-item.rep674{background-position:-6428px 0;width:69px}
+.rep-item.rep675{background-position:-6507px 0}
+.rep-item.rep676{background-position:-6567px 0;width:35px}
+.rep-item.rep677{background-position:-6612px 0;width:44px}
+.rep-item.rep678{background-position:-6666px 0;width:48px}
+.rep-item.rep679{background-position:-6724px 0;width:37px}
+.rep-item.rep680{background-position:-6771px 0;width:43px}
+.rep-item.rep681{background-position:-6824px 0;width:52px}
+.rep-item.rep682{background-position:-6886px 0;width:42px}
+.rep-item.rep683{background-position:-6938px 0}
+.rep-item.rep684{background-position:-6998px 0;width:33px}
+.rep-item.rep685{background-position:-7041px 0;width:48px}
+.rep-item.rep686{background-position:-7099px 0;width:44px}
+.rep-item.rep687{background-position:-7153px 0;width:70px}
+.rep-item.rep688{background-position:-7233px 0;width:38px}
+.rep-item.rep689{background-position:-7281px 0;width:53px}
+.rep-item.rep690{background-position:-7344px 0;width:47px}
+.rep-item.rep691{background-position:-7401px 0;width:37px}
+.rep-item.rep692{background-position:-7448px 0;width:55px}
+.rep-item.rep693{background-position:-7513px 0;width:58px}
+.rep-item.rep694{background-position:-7581px 0;width:43px}
+.rep-item.rep695{background-position:-7634px 0;width:67px}
+.rep-item.rep696{background-position:-7711px 0;width:80px}
+.rep-item.rep697{background-position:-7801px 0;width:43px}
+.rep-item.rep698{background-position:-7854px 0;width:46px}
+.rep-item.rep699{background-position:-7910px 0;width:28px}
+.rep-item.rep700{background-position:-7948px 0;width:52px}
+.rep-item.rep701{background-position:-8010px 0;width:57px}
+.rep-item.rep702{background-position:-8077px 0;width:29px}
+.rep-item.rep703{background-position:-8116px 0;width:36px}
+.rep-item.rep704{background-position:-8162px 0;width:41px}
+.rep-item.rep705{background-position:-8213px 0;width:31px}
+.rep-item.rep706{background-position:-8254px 0;width:44px}
+.rep-item.rep707{background-position:-8308px 0;width:42px}
+.rep-item.rep708{background-position:-8360px 0;width:48px}
+.rep-item.rep709{background-position:-8418px 0;width:68px}
+.rep-item.rep710{background-position:-8496px 0;width:46px}
+.rep-item.rep711{background-position:-8552px 0;width:47px}
+.rep-item.rep712{background-position:-8609px 0;width:41px}
+.rep-item.rep713{background-position:-8660px 0;width:31px}
+.rep-item.rep714{background-position:-8701px 0;width:61px}
+.rep-item.rep715{background-position:-8772px 0;width:38px}
+.rep-item.rep716{background-position:-8820px 0;width:40px}
+.rep-item.rep717{background-position:-8870px 0;width:41px}
+.rep-item.rep719{background-position:-8921px 0;width:52px}
+.rep-item.rep720{background-position:-8983px 0;width:46px}
+.rep-item.rep721{background-position:-9039px 0;width:52px}
+.rep-item.rep722{background-position:-9101px 0;width:38px}
+.rep-item.rep723{background-position:-9149px 0;width:53px}
+.rep-item.rep724{background-position:-9212px 0;width:42px}
+.rep-item.rep725{background-position:-9264px 0;width:37px}
+.rep-item.rep726{background-position:-9311px 0;width:46px}
+.rep-item.rep727{background-position:-9367px 0;width:37px}
+.rep-item.rep728{background-position:-9414px 0;width:40px}
+.rep-item.rep729{background-position:-9464px 0;width:65px}
+.rep-item.rep730{background-position:-9539px 0;width:53px}
+.rep-item.rep731{background-position:-9602px 0;width:50px}
+.rep-item.rep732{background-position:-9662px 0;width:50px}
+.rep-trink{background:url("images/repentance-trinkets.png") no-repeat top left;width:50px;height:50px;image-rendering:pixelated}
+.rep-trink.rep-junxx129{background-position:0 0}
+.rep-trink.rep-junxx130{background-position:-60px 0;width:63px;height:40px}
+.rep-trink.rep-junxx131{background-position:-133px 0;width:58px}
+.rep-trink.rep-junxx132{background-position:-201px 0;width:61px}
+.rep-trink.rep-junxx133{background-position:-272px 0;width:53px}
+.rep-trink.rep-junxx134{background-position:-335px 0}
+.rep-trink.rep-junxx135{background-position:-395px 0;width:73px}
+.rep-trink.rep-junxx136{background-position:-478px 0;width:45px}
+.rep-trink.rep-junxx137{background-position:-533px 0;width:45px}
+.rep-trink.rep-junxx138{background-position:-588px 0;width:39px}
+.rep-trink.rep-junxx139{background-position:-637px 0;width:61px;height:40px}
+.rep-trink.rep-junxx140{background-position:-708px 0;width:41px}
+.rep-trink.rep-junxx141{background-position:-759px 0;width:60px}
+.rep-trink.rep-junxx142{background-position:-829px 0;width:45px}
+.rep-trink.rep-junxx143{background-position:-884px 0;width:30px}
+.rep-trink.rep-junxx144{background-position:-924px 0;width:71px;height:40px}
+.rep-trink.rep-junxx145{background-position:-1005px 0;width:43px}
+.rep-trink.rep-junxx146{background-position:-1058px 0;width:69px}
+.rep-trink.rep-junxx147{background-position:-1137px 0;width:66px}
+.rep-trink.rep-junxx148{background-position:-1213px 0;width:62px}
+.rep-trink.rep-junxx149{background-position:-1285px 0;width:43px}
+.rep-trink.rep-junxx150{background-position:-1338px 0;width:45px}
+.rep-trink.rep-junxx151{background-position:-1393px 0;width:68px;height:40px}
+.rep-trink.rep-junxx152{background-position:-1471px 0}
+.rep-trink.rep-junxx153{background-position:-1531px 0;width:43px}
+.rep-trink.rep-junxx154{background-position:-1584px 0;width:48px}
+.rep-trink.rep-junxx155{background-position:-1642px 0;width:53px}
+.rep-trink.rep-junxx156{background-position:-1705px 0}
+.rep-trink.rep-junxx157{background-position:-1765px 0;width:57px}
+.rep-trink.rep-junxx158{background-position:-1832px 0;width:43px}
+.rep-trink.rep-junxx159{background-position:-1885px 0;width:58px}
+.rep-trink.rep-junxx160{background-position:-1953px 0;width:42px}
+.rep-trink.rep-junxx161{background-position:-2005px 0;width:59px}
+.rep-trink.rep-junxx162{background-position:-2074px 0}
+.rep-trink.rep-junxx163{background-position:-2134px 0;width:54px}
+.rep-trink.rep-junxx164{background-position:-2198px 0}
+.rep-trink.rep-junxx165{background-position:-2258px 0;width:53px}
+.rep-trink.rep-junxx166{background-position:-2321px 0;width:53px}
+.rep-trink.rep-junxx167{background-position:-2384px 0;width:35px}
+.rep-trink.rep-junxx168{background-position:-2429px 0;width:47px}
+.rep-trink.rep-junxx169{background-position:-2486px 0}
+.rep-trink.rep-junxx170{background-position:-2546px 0;width:43px}
+.rep-trink.rep-junxx171{background-position:-2599px 0}
+.rep-trink.rep-junxx172{background-position:-2659px 0;width:55px}
+.rep-trink.rep-junxx173{background-position:-2724px 0;width:39px}
+.rep-trink.rep-junxx174{background-position:-2773px 0;width:38px}
+.rep-trink.rep-junxx175{background-position:-2821px 0;width:43px}
+.rep-trink.rep-junxx176{background-position:-2874px 0;width:59px}
+.rep-trink.rep-junxx177{background-position:-2943px 0;width:58px}
+.rep-trink.rep-junxx178{background-position:-3011px 0;width:61px;height:40px}
+.rep-trink.rep-junxx179{background-position:-3082px 0;width:42px}
+.rep-trink.rep-junxx180{background-position:-3134px 0;width:40px}
+.rep-trink.rep-junxx181{background-position:-3184px 0;width:63px}
+.rep-trink.rep-junxx182{background-position:-3257px 0}
+.rep-trink.rep-junxx183{background-position:-3317px 0;width:52px}
+.rep-trink.rep-junxx184{background-position:-3379px 0}
+.rep-trink.rep-junxx185{background-position:-3439px 0;width:53px}
+.rep-trink.rep-junxx186{background-position:-3502px 0}
+.rep-trink.rep-junxx187{background-position:-3562px 0;width:58px}
+.rep-trink.rep-junxx188{background-position:-3630px 0;width:47px}
+.rep-trink.rep-junxx189{background-position:-3687px 0;width:47px}
+.rep-card{background:url("images/repentance-cards_final.png") no-repeat top left;width:43px;height:50px}
+.rep-card.repc50{background-position:0 0;width:39px}
+.rep-card.repc55{background-position:-49px 0;width:34px}
+.rep-card.repc78{background-position:-93px 0;width:77px}
+.rep-card.repc79{background-position:-180px 0;width:39px}
+.rep-card.repc80{background-position:-229px 0;width:39px}
+.rep-card.repc81{background-position:-278px 0}
+.rep-card.repc82{background-position:-331px 0}
+.rep-card.repc83{background-position:-384px 0;width:48px}
+.rep-card.repc84{background-position:-442px 0}
+.rep-card.repc85{background-position:-495px 0;width:40px}
+.rep-card.repc86{background-position:-545px 0;width:39px}
+.rep-card.repc87{background-position:-594px 0;width:34px}
+.rep-card.repc88{background-position:-638px 0;width:39px}
+.rep-card.repc89{background-position:-687px 0}
+.rep-card.repc90{background-position:-740px 0;width:41px}
+.rep-card.repc91{background-position:-791px 0;width:35px}
+.rep-card.repc92{background-position:-836px 0}
+.rep-card.repc93{background-position:-889px 0;width:41px}
+.rep-card.repc94{background-position:-940px 0;width:36px}
+.rep-card.repc95{background-position:-986px 0;width:41px}
+.rep-card.repc96{background-position:-1037px 0;width:38px}
+.rep-card.repc97{background-position:-1085px 0}
+.rep-card.repc1004{background-position:-1138px 0;width:110px}
+.rep-card.repc1005{background-position:-1258px 0;width:50px}
+.rep-card.repc1006{background-position:-1318px 0;width:50px}
+.rep-card.repc319{background-position:-1378px 0;width:62px}
+.rep-card.repc320{background-position:-1450px 0;width:45px}
+.rep-card.repc314{background-position:-1505px 0;width:35px}
+.rep-card.repc315{background-position:-1550px 0;width:48px}
+.rep-card.repc316{background-position:-1608px 0;width:69px}
+.reb-itm-new{background:url("images/repentance-rebirth-items.png") no-repeat top left;width:50px;height:50px}
+.reb-itm-new.re-itm001{background-position:0 0;width:33px}
+.reb-itm-new.re-itm002{background-position:-43px 0}
+.reb-itm-new.re-itm003{background-position:-103px 0;width:59px}
+.reb-itm-new.re-itm004{background-position:-172px 0}
+.reb-itm-new.re-itm005{background-position:-232px 0;width:38px}
+.reb-itm-new.re-itm006{background-position:-280px 0;width:31px}
+.reb-itm-new.re-itm007{background-position:-321px 0;width:84px}
+.reb-itm-new.re-itm008{background-position:-415px 0;width:36px}
+.reb-itm-new.re-itm009{background-position:-461px 0;width:41px}
+.reb-itm-new.re-itm010{background-position:-512px 0;width:41px}
+.reb-itm-new.re-itm011{background-position:-563px 0;width:47px}
+.reb-itm-new.re-itm012{background-position:-620px 0;width:47px}
+.reb-itm-new.re-itm013{background-position:-677px 0;width:25px}
+.reb-itm-new.re-itm014{background-position:-712px 0;width:25px}
+.reb-itm-new.re-itm015{background-position:-747px 0}
+.reb-itm-new.re-itm016{background-position:-807px 0;width:53px}
+.reb-itm-new.re-itm017{background-position:-870px 0;width:34px}
+.reb-itm-new.re-itm018{background-position:-914px 0;width:38px}
+.reb-itm-new.re-itm019{background-position:-962px 0;width:56px}
+.reb-itm-new.re-itm020{background-position:-1028px 0;width:26px}
+.reb-itm-new.re-itm021{background-position:-1064px 0;width:56px}
+.reb-itm-new.re-itm022{background-position:-1130px 0;width:41px}
+.reb-itm-new.re-itm024{background-position:-1181px 0;width:40px}
+.reb-itm-new.re-itm023{background-position:-1231px 0;width:48px}
+.reb-itm-new.re-itm025{background-position:-1289px 0;width:52px}
+.reb-itm-new.re-itm026{background-position:-1351px 0;width:55px}
+.reb-itm-new.re-itm027{background-position:-1416px 0;width:29px}
+.reb-itm-new.re-itm028{background-position:-1455px 0;width:58px}
+.reb-itm-new.re-itm029{background-position:-1523px 0;width:59px}
+.reb-itm-new.re-itm030{background-position:-1592px 0;width:56px}
+.reb-itm-new.re-itm031{background-position:-1658px 0;width:24px}
+.reb-itm-new.re-itm032{background-position:-1692px 0;width:43px}
+.reb-itm-new.re-itm033{background-position:-1745px 0;width:41px}
+.reb-itm-new.re-itm034{background-position:-1796px 0;width:41px}
+.reb-itm-new.re-itm035{background-position:-1847px 0;width:41px}
+.reb-itm-new.re-itm036{background-position:-1898px 0;width:56px}
+.reb-itm-new.re-itm037{background-position:-1964px 0;width:40px}
+.reb-itm-new.re-itm039{background-position:-2014px 0;width:58px}
+.reb-itm-new.re-itm038{background-position:-2082px 0;width:43px}
+.reb-itm-new.re-itm040{background-position:-2135px 0;width:48px}
+.reb-itm-new.re-itm041{background-position:-2193px 0;width:30px}
+.reb-itm-new.re-itm042{background-position:-2233px 0;width:55px}
+.reb-itm-new.re-itm044{background-position:-2298px 0;width:33px}
+.reb-itm-new.re-itm045{background-position:-2341px 0;width:60px}
+.reb-itm-new.re-itm046{background-position:-2411px 0;width:43px}
+.reb-itm-new.re-itm047{background-position:-2464px 0;width:33px}
+.reb-itm-new.re-itm048{background-position:-2507px 0;width:26px}
+.reb-itm-new.re-itm049{background-position:-2543px 0;width:52px}
+.reb-itm-new.re-itm050{background-position:-2605px 0}
+.reb-itm-new.re-itm052{background-position:-2665px 0;width:30px}
+.reb-itm-new.re-itm051{background-position:-2705px 0;width:45px}
+.reb-itm-new.re-itm053{background-position:-2760px 0;width:48px}
+.reb-itm-new.re-itm054{background-position:-2818px 0;width:40px}
+.reb-itm-new.re-itm055{background-position:-2868px 0;width:38px}
+.reb-itm-new.re-itm057{background-position:-2916px 0;width:80px;height:35px}
+.reb-itm-new.re-itm056{background-position:-3006px 0}
+.reb-itm-new.re-itm058{background-position:-3066px 0;width:41px}
+.reb-itm-new.re-itm060{background-position:-3117px 0;width:41px}
+.reb-itm-new.re-itm062{background-position:-3168px 0;width:70px}
+.reb-itm-new.re-itm063{background-position:-3248px 0;width:38px}
+.reb-itm-new.re-itm064{background-position:-3296px 0;width:43px}
+.reb-itm-new.re-itm065{background-position:-3349px 0;width:41px}
+.reb-itm-new.re-itm066{background-position:-3400px 0;width:40px}
+.reb-itm-new.re-itm067{background-position:-3450px 0;width:36px}
+.reb-itm-new.re-itm068{background-position:-3496px 0;width:52px}
+.reb-itm-new.re-itm069{background-position:-3558px 0;width:35px}
+.reb-itm-new.re-itm070{background-position:-3603px 0;width:25px}
+.reb-itm-new.re-itm071{background-position:-3638px 0;width:41px}
+.reb-itm-new.re-itm072{background-position:-3689px 0;width:48px}
+.reb-itm-new.re-itm073{background-position:-3747px 0;width:53px}
+.reb-itm-new.re-itm074{background-position:-3810px 0;width:45px}
+.reb-itm-new.re-itm075{background-position:-3865px 0;width:66px}
+.reb-itm-new.re-itm076{background-position:-3941px 0;width:80px;height:35px}
+.reb-itm-new.re-itm077{background-position:-4031px 0;width:34px}
+.reb-itm-new.re-itm078{background-position:-4075px 0;width:41px}
+.reb-itm-new.re-itm079{background-position:-4126px 0;width:53px}
+.reb-itm-new.re-itm080{background-position:-4189px 0;width:35px}
+.reb-itm-new.re-itm081{background-position:-4234px 0;width:67px}
+.reb-itm-new.re-itm083{background-position:-4311px 0;width:29px}
+.reb-itm-new.re-itm082{background-position:-4350px 0;width:37px}
+.reb-itm-new.re-itm084{background-position:-4397px 0;width:30px}
+.reb-itm-new.re-itm085{background-position:-4437px 0;width:54px}
+.reb-itm-new.re-itm086{background-position:-4501px 0;width:38px}
+.reb-itm-new.re-itm087{background-position:-4549px 0;width:46px}
+.reb-itm-new.re-itm088{background-position:-4605px 0;width:38px}
+.reb-itm-new.re-itm089{background-position:-4653px 0;width:78px}
+.reb-itm-new.re-itm090{background-position:-4741px 0;width:53px}
+.reb-itm-new.re-itm091{background-position:-4804px 0;width:48px}
+.reb-itm-new.re-itm092{background-position:-4862px 0;width:63px}
+.reb-itm-new.re-itm093{background-position:-4935px 0;width:39px}
+.reb-itm-new.re-itm094{background-position:-4984px 0;width:35px}
+.reb-itm-new.re-itm095{background-position:-5029px 0;width:36px}
+.reb-itm-new.re-itm096{background-position:-5075px 0;width:38px}
+.reb-itm-new.re-itm097{background-position:-5123px 0;width:41px}
+.reb-itm-new.re-itm098{background-position:-5174px 0;width:42px}
+.reb-itm-new.re-itm099{background-position:-5226px 0}
+.reb-itm-new.re-itm100{background-position:-5286px 0;width:39px}
+.reb-itm-new.re-itm101{background-position:-5335px 0;width:80px;height:43px}
+.reb-itm-new.re-itm102{background-position:-5425px 0;width:55px}
+.reb-itm-new.re-itm103{background-position:-5490px 0}
+.reb-itm-new.re-itm104{background-position:-5550px 0;width:41px}
+.reb-itm-new.re-itm105{background-position:-5601px 0;width:55px}
+.reb-itm-new.re-itm106{background-position:-5666px 0;width:41px}
+.reb-itm-new.re-itm107{background-position:-5717px 0;width:45px}
+.reb-itm-new.re-itm108{background-position:-5772px 0}
+.reb-itm-new.re-itm109{background-position:-5832px 0;width:53px}
+.reb-itm-new.re-itm110{background-position:-5895px 0;width:48px}
+.reb-itm-new.re-itm111{background-position:-5953px 0;width:36px}
+.reb-itm-new.re-itm112{background-position:-5999px 0;width:64px}
+.reb-itm-new.re-itm113{background-position:-6073px 0;width:33px}
+.reb-itm-new.re-itm114{background-position:-6116px 0;width:20px}
+.reb-itm-new.re-itm115{background-position:-6146px 0;width:67px}
+.reb-itm-new.re-itm116{background-position:-6223px 0;width:41px}
+.reb-itm-new.re-itm117{background-position:-6274px 0;width:55px}
+.reb-itm-new.re-itm118{background-position:-6339px 0}
+.reb-itm-new.re-itm119{background-position:-6399px 0;width:43px}
+.reb-itm-new.re-itm120{background-position:-6452px 0;width:33px}
+.reb-itm-new.re-itm121{background-position:-6495px 0;width:82px}
+.reb-itm-new.re-itm122{background-position:-6587px 0;width:57px}
+.reb-itm-new.re-itm123{background-position:-6654px 0;width:41px}
+.reb-itm-new.re-itm124{background-position:-6705px 0;width:39px}
+.reb-itm-new.re-itm125{background-position:-6754px 0;width:37px}
+.reb-itm-new.re-itm126{background-position:-6801px 0;width:35px}
+.reb-itm-new.re-itm127{background-position:-6846px 0;width:57px}
+.reb-itm-new.re-itm128{background-position:-6913px 0;width:80px;height:30px}
+.reb-itm-new.re-itm129{background-position:-7003px 0;width:44px}
+.reb-itm-new.re-itm130{background-position:-7057px 0;width:36px}
+.reb-itm-new.re-itm131{background-position:-7103px 0;width:35px}
+.reb-itm-new.re-itm132{background-position:-7148px 0;width:54px}
+.reb-itm-new.re-itm133{background-position:-7212px 0;width:39px}
+.reb-itm-new.re-itm134{background-position:-7261px 0;width:52px}
+.reb-itm-new.re-itm135{background-position:-7323px 0;width:53px}
+.reb-itm-new.re-itm136{background-position:-7386px 0;width:44px}
+.reb-itm-new.re-itm137{background-position:-7440px 0;width:48px}
+.reb-itm-new.re-itm138{background-position:-7498px 0;width:41px}
+.reb-itm-new.re-itm139{background-position:-7549px 0;width:73px}
+.reb-itm-new.re-itm140{background-position:-7632px 0;width:45px}
+.reb-itm-new.re-itm141{background-position:-7687px 0;width:53px}
+.reb-itm-new.re-itm142{background-position:-7750px 0;width:48px}
+.reb-itm-new.re-itm143{background-position:-7808px 0;width:25px}
+.reb-itm-new.re-itm144{background-position:-7843px 0;width:43px}
+.reb-itm-new.re-itm145{background-position:-7896px 0}
+.reb-itm-new.re-itm146{background-position:-7956px 0;width:39px}
+.reb-itm-new.re-itm147{background-position:-8005px 0}
+.reb-itm-new.re-itm148{background-position:-8065px 0;width:36px}
+.reb-itm-new.re-itm149{background-position:-8111px 0;width:40px}
+.reb-itm-new.re-itm150{background-position:-8161px 0;width:77px}
+.reb-itm-new.re-itm151{background-position:-8248px 0;width:41px}
+.reb-itm-new.re-itm152{background-position:-8299px 0;width:57px}
+.reb-itm-new.re-itm153{background-position:-8366px 0;width:57px}
+.reb-itm-new.re-itm154{background-position:-8433px 0;width:33px}
+.reb-itm-new.re-itm155{background-position:-8476px 0;width:34px}
+.reb-itm-new.re-itm156{background-position:-8520px 0;width:43px}
+.reb-itm-new.re-itm157{background-position:-8573px 0;width:31px}
+.reb-itm-new.re-itm158{background-position:-8614px 0;width:45px}
+.reb-itm-new.re-itm159{background-position:-8669px 0;width:48px}
+.reb-itm-new.re-itm160{background-position:-8727px 0;width:47px}
+.reb-itm-new.re-itm161{background-position:-8784px 0;width:44px}
+.reb-itm-new.re-itm162{background-position:-8838px 0;width:42px}
+.reb-itm-new.re-itm163{background-position:-8890px 0;width:39px}
+.reb-itm-new.re-itm164{background-position:-8939px 0;width:44px}
+.reb-itm-new.re-itm165{background-position:-8993px 0;width:48px}
+.reb-itm-new.re-itm166{background-position:-9051px 0}
+.reb-itm-new.re-itm167{background-position:-9111px 0;width:39px}
+.reb-itm-new.re-itm168{background-position:-9160px 0;width:28px}
+.reb-itm-new.re-itm169{background-position:-9198px 0;width:52px}
+.reb-itm-new.re-itm170{background-position:-9260px 0;width:55px}
+.reb-itm-new.re-itm171{background-position:-9325px 0;width:59px}
+.reb-itm-new.re-itm172{background-position:-9394px 0;width:20px}
+.reb-itm-new.re-itm173{background-position:-9424px 0;width:41px}
+.reb-itm-new.re-itm174{background-position:-9475px 0;width:60px}
+.reb-itm-new.re-itm175{background-position:-9545px 0;width:45px}
+.reb-itm-new.re-itm176{background-position:-9600px 0}
+.reb-itm-new.re-itm177{background-position:-9660px 0;width:59px}
+.reb-itm-new.re-itm178{background-position:-9729px 0;width:39px}
+.reb-itm-new.re-itm179{background-position:-9778px 0;width:55px}
+.reb-itm-new.re-itm180{background-position:-9843px 0;width:36px}
+.reb-itm-new.re-itm181{background-position:-9889px 0;width:36px}
+.reb-itm-new.re-itm182{background-position:-9935px 0;width:33px}
+.reb-itm-new.re-itm183{background-position:-9978px 0;width:64px}
+.reb-itm-new.re-itm184{background-position:-10052px 0;width:41px}
+.reb-itm-new.re-itm185{background-position:-10103px 0;width:80px;height:46px}
+.reb-itm-new.re-itm186{background-position:-10193px 0;width:55px}
+.reb-itm-new.re-itm187{background-position:-10258px 0;width:65px}
+.reb-itm-new.re-itm188{background-position:-10333px 0;width:55px}
+.reb-itm-new.re-itm189{background-position:-10398px 0}
+.reb-itm-new.re-itm190{background-position:-10458px 0;width:52px}
+.reb-itm-new.re-itm191{background-position:-10520px 0;width:38px}
+.reb-itm-new.re-itm192{background-position:-10568px 0;width:41px}
+.reb-itm-new.re-itm193{background-position:-10619px 0;width:35px}
+.reb-itm-new.re-itm194{background-position:-10664px 0}
+.reb-itm-new.re-itm195{background-position:-10724px 0;width:62px}
+.reb-itm-new.re-itm196{background-position:-10796px 0;width:43px}
+.reb-itm-new.re-itm197{background-position:-10849px 0;width:40px}
+.reb-itm-new.re-itm198{background-position:-10899px 0;width:55px}
+.reb-itm-new.re-itm199{background-position:-10964px 0;width:36px}
+.reb-itm-new.re-itm200{background-position:-11010px 0}
+.reb-itm-new.re-itm201{background-position:-11070px 0;width:68px}
+.reb-itm-new.re-itm202{background-position:-11148px 0;width:68px}
+.reb-itm-new.re-itm203{background-position:-11226px 0;width:58px}
+.reb-itm-new.re-itm204{background-position:-11294px 0;width:63px}
+.reb-itm-new.re-itm205{background-position:-11367px 0;width:48px}
+.reb-itm-new.re-itm206{background-position:-11425px 0;width:52px}
+.reb-itm-new.re-itm207{background-position:-11487px 0;width:48px}
+.reb-itm-new.re-itm208{background-position:-11545px 0;width:71px}
+.reb-itm-new.re-itm209{background-position:-11626px 0;width:52px}
+.reb-itm-new.re-itm210{background-position:-11688px 0;width:44px}
+.reb-itm-new.re-itm211{background-position:-11742px 0}
+.reb-itm-new.re-itm212{background-position:-11802px 0}
+.reb-itm-new.re-itm213{background-position:-11862px 0;width:82px}
+.reb-itm-new.re-itm214{background-position:-11954px 0;width:33px}
+.reb-itm-new.re-itm215{background-position:-11997px 0;width:56px}
+.reb-itm-new.re-itm216{background-position:-12063px 0;width:35px}
+.reb-itm-new.re-itm217{background-position:-12108px 0}
+.reb-itm-new.re-itm218{background-position:-12168px 0;width:60px}
+.reb-itm-new.re-itm219{background-position:-12238px 0;width:55px}
+.reb-itm-new.re-itm220{background-position:-12303px 0;width:52px}
+.reb-itm-new.re-itm221{background-position:-12365px 0;width:45px}
+.reb-itm-new.re-itm222{background-position:-12420px 0;width:53px}
+.reb-itm-new.re-itm223{background-position:-12483px 0;width:48px}
+.reb-itm-new.re-itm224{background-position:-12541px 0;width:52px}
+.reb-itm-new.re-itm225{background-position:-12603px 0;width:55px}
+.reb-itm-new.re-itm226{background-position:-12668px 0}
+.reb-itm-new.re-itm227{background-position:-12728px 0;width:68px}
+.reb-itm-new.re-itm228{background-position:-12806px 0}
+.reb-itm-new.re-itm229{background-position:-12866px 0;width:45px}
+.reb-itm-new.re-itm230{background-position:-12921px 0;width:54px}
+.reb-itm-new.re-itm231{background-position:-12985px 0;width:53px}
+.reb-itm-new.re-itm232{background-position:-13048px 0;width:44px}
+.reb-itm-new.re-itm233{background-position:-13102px 0}
+.reb-itm-new.re-itm234{background-position:-13162px 0;width:60px}
+.reb-itm-new.re-itm236{background-position:-13232px 0;width:65px}
+.reb-itm-new.re-itm237{background-position:-13307px 0;width:58px}
+.reb-itm-new.re-itm238{background-position:-13375px 0;width:61px}
+.reb-itm-new.re-itm239{background-position:-13446px 0;width:79px}
+.reb-itm-new.re-itm240{background-position:-13535px 0;width:25px}
+.reb-itm-new.re-itm241{background-position:-13570px 0;width:53px}
+.reb-itm-new.re-itm242{background-position:-13633px 0;width:45px}
+.reb-itm-new.re-itm243{background-position:-13688px 0}
+.reb-itm-new.re-itm244{background-position:-13748px 0;width:34px}
+.reb-itm-new.re-itm245{background-position:-13792px 0;width:62px}
+.reb-itm-new.re-itm246{background-position:-13864px 0;width:48px}
+.reb-itm-new.re-itm247{background-position:-13922px 0;width:52px}
+.reb-itm-new.re-itm248{background-position:-13984px 0;width:52px}
+.reb-itm-new.re-itm249{background-position:-14046px 0;width:48px}
+.reb-itm-new.re-itm250{background-position:-14104px 0}
+.reb-itm-new.re-itm251{background-position:-14164px 0;width:42px}
+.reb-itm-new.re-itm252{background-position:-14216px 0;width:48px}
+.reb-itm-new.re-itm253{background-position:-14274px 0;width:48px}
+.reb-itm-new.re-itm254{background-position:-14332px 0}
+.reb-itm-new.re-itm255{background-position:-14392px 0;width:48px}
+.reb-itm-new.re-itm256{background-position:-14450px 0;width:48px}
+.reb-itm-new.re-itm257{background-position:-14508px 0;width:42px}
+.reb-itm-new.re-itm258{background-position:-14560px 0;width:54px}
+.reb-itm-new.re-itm259{background-position:-14624px 0;width:57px}
+.reb-itm-new.re-itm260{background-position:-14691px 0;width:44px}
+.reb-itm-new.re-itm261{background-position:-14745px 0;width:58px}
+.reb-itm-new.re-itm262{background-position:-14813px 0;width:45px}
+.reb-itm-new.re-itm263{background-position:-19950px 0;width:38px}
+.reb-itm-new.re-itm264{background-position:-14868px 0;width:71px}
+.reb-itm-new.re-itm265{background-position:-14949px 0}
+.reb-itm-new.re-itm266{background-position:-15009px 0;width:53px}
+.reb-itm-new.re-itm267{background-position:-15072px 0;width:33px}
+.reb-itm-new.re-itm268{background-position:-15115px 0;width:36px}
+.reb-itm-new.re-itm269{background-position:-15161px 0;width:64px}
+.reb-itm-new.re-itm270{background-position:-15235px 0;width:80px;height:42px}
+.reb-itm-new.re-itm271{background-position:-15325px 0;width:35px}
+.reb-itm-new.re-itm272{background-position:-15370px 0;width:55px}
+.reb-itm-new.re-itm273{background-position:-15435px 0}
+.reb-itm-new.re-itm274{background-position:-15495px 0;width:57px}
+.reb-itm-new.re-itm275{background-position:-15562px 0;width:52px}
+.reb-itm-new.re-itm276{background-position:-15624px 0;width:41px}
+.reb-itm-new.re-itm277{background-position:-15675px 0;width:60px}
+.reb-itm-new.re-itm278{background-position:-15745px 0;width:38px;cursor:url(images/spirit-small.png),auto}
+.reb-itm-new.re-itm279{background-position:-15793px 0;width:52px}
+.reb-itm-new.re-itm280{background-position:-15855px 0}
+.reb-itm-new.re-itm281{background-position:-15915px 0;width:42px}
+.reb-itm-new.re-itm282{background-position:-15967px 0;width:45px}
+.reb-itm-new.re-itm283{background-position:-16022px 0}
+.reb-itm-new.re-itm284{background-position:-16082px 0;width:59px}
+.reb-itm-new.re-itm285{background-position:-16151px 0}
+.reb-itm-new.re-itm286{background-position:-16211px 0;width:38px}
+.reb-itm-new.re-itm287{background-position:-16259px 0;width:41px}
+.reb-itm-new.re-itm288{background-position:-16310px 0;width:54px}
+.reb-itm-new.re-itm289{background-position:-16374px 0;width:44px}
+.reb-itm-new.re-itm290{background-position:-16428px 0;width:40px}
+.reb-itm-new.re-itm291{background-position:-16478px 0;width:81px}
+.reb-itm-new.re-itm292{background-position:-16569px 0;width:41px}
+.reb-itm-new.re-itm293{background-position:-16620px 0;width:40px}
+.reb-itm-new.re-itm294{background-position:-16670px 0;width:70px}
+.reb-itm-new.re-itm295{background-position:-16750px 0;width:55px}
+.reb-itm-new.re-itm296{background-position:-16815px 0;width:60px}
+.reb-itm-new.re-itm297{background-position:-16885px 0;width:52px}
+.reb-itm-new.re-itm298{background-position:-16947px 0;width:54px}
+.reb-itm-new.re-itm299{background-position:-17011px 0;width:52px}
+.reb-itm-new.re-itm300{background-position:-17073px 0;width:58px}
+.reb-itm-new.re-itm301{background-position:-17141px 0;width:48px}
+.reb-itm-new.re-itm302{background-position:-17199px 0;width:58px}
+.reb-itm-new.re-itm303{background-position:-17267px 0}
+.reb-itm-new.re-itm304{background-position:-17327px 0;width:60px}
+.reb-itm-new.re-itm305{background-position:-17397px 0;width:60px}
+.reb-itm-new.re-itm306{background-position:-17467px 0}
+.reb-itm-new.re-itm307{background-position:-17527px 0;width:63px}
+.reb-itm-new.re-itm308{background-position:-17600px 0;width:67px}
+.reb-itm-new.re-itm309{background-position:-17677px 0}
+.reb-itm-new.re-itm310{background-position:-17737px 0;width:75px}
+.reb-itm-new.re-itm311{background-position:-17822px 0;width:38px}
+.reb-itm-new.re-itm312{background-position:-17870px 0}
+.reb-itm-new.re-itm313{background-position:-17930px 0;width:43px}
+.reb-itm-new.re-itm314{background-position:-17983px 0;width:60px}
+.reb-itm-new.re-itm315{background-position:-18053px 0;width:53px}
+.reb-itm-new.re-itm316{background-position:-18116px 0}
+.reb-itm-new.re-itm317{background-position:-18176px 0;width:35px}
+.reb-itm-new.re-itm318{background-position:-18221px 0;width:60px}
+.reb-itm-new.re-itm319{background-position:-18291px 0;width:53px}
+.reb-itm-new.re-itm320{background-position:-18354px 0;width:52px}
+.reb-itm-new.re-itm321{background-position:-18416px 0;width:58px}
+.reb-itm-new.re-itm322{background-position:-18484px 0;width:46px}
+.reb-itm-new.re-itm323{background-position:-18540px 0;width:53px}
+.reb-itm-new.re-itm324{background-position:-18603px 0;width:58px}
+.reb-itm-new.re-itm325{background-position:-18671px 0;width:48px}
+.reb-itm-new.re-itm326{background-position:-18729px 0;width:65px}
+.reb-itm-new.re-itm327{background-position:-18804px 0}
+.reb-itm-new.re-itm328{background-position:-18864px 0}
+.reb-itm-new.re-itm329{background-position:-18924px 0}
+.reb-itm-new.re-itm330{background-position:-18984px 0;width:35px}
+.reb-itm-new.re-itm331{background-position:-19029px 0;width:64px}
+.reb-itm-new.re-itm332{background-position:-19103px 0}
+.reb-itm-new.re-itm333{background-position:-19163px 0}
+.reb-itm-new.re-itm334{background-position:-19223px 0}
+.reb-itm-new.re-itm335{background-position:-19283px 0}
+.reb-itm-new.re-itm336{background-position:-19343px 0;width:33px}
+.reb-itm-new.re-itm337{background-position:-19386px 0}
+.reb-itm-new.re-itm338{background-position:-19446px 0;width:35px}
+.reb-itm-new.re-itm339{background-position:-19491px 0;width:64px}
+.reb-itm-new.re-itm340{background-position:-19565px 0;width:33px}
+.reb-itm-new.re-itm341{background-position:-19608px 0}
+.reb-itm-new.re-itm342{background-position:-19668px 0;width:34px}
+.reb-itm-new.re-itm343{background-position:-19712px 0;width:61px}
+.reb-itm-new.re-itm344{background-position:-19783px 0;width:41px}
+.reb-itm-new.re-itm345{background-position:-19834px 0;width:38px}
+.reb-itm-new.re-itm346{background-position:-19882px 0;width:58px}
+.ab-itm-new{background:url("images/repentance-ab-items.png") no-repeat top left;width:50px;height:50px}
+.ab-itm-new.abn-itm347{background-position:0 0;width:61px}
+.ab-itm-new.abn-itm348{background-position:-71px 0;width:31px}
+.ab-itm-new.abn-itm349{background-position:-112px 0;width:56px}
+.ab-itm-new.abn-itm350{background-position:-178px 0;width:52px}
+.ab-itm-new.abn-itm351{background-position:-240px 0;width:69px}
+.ab-itm-new.abn-itm352{background-position:-319px 0;width:52px}
+.ab-itm-new.abn-itm353{background-position:-381px 0;width:44px}
+.ab-itm-new.abn-itm354{background-position:-435px 0;width:43px}
+.ab-itm-new.abn-itm355{background-position:-488px 0;width:58px}
+.ab-itm-new.abn-itm356{background-position:-556px 0}
+.ab-itm-new.abn-itm357{background-position:-616px 0;width:58px}
+.ab-itm-new.abn-itm359{background-position:-684px 0}
+.ab-itm-new.abn-itm358{background-position:-744px 0;width:42px}
+.ab-itm-new.abn-itm360{background-position:-796px 0;width:68px}
+.ab-itm-new.abn-itm361{background-position:-874px 0;width:53px}
+.ab-itm-new.abn-itm362{background-position:-937px 0;width:53px}
+.ab-itm-new.abn-itm363{background-position:-1000px 0;width:65px}
+.ab-itm-new.abn-itm365{background-position:-1089px 0;width:48px}
+.ab-itm-new.abn-itm364{background-position:-1165px 0;width:80px;height:47px}
+.ab-itm-new.abn-itm366{background-position:-1255px 0;width:38px}
+.ab-itm-new.abn-itm367{background-position:-1303px 0;width:54px}
+.ab-itm-new.abn-itm368{background-position:-1367px 0;width:46px}
+.ab-itm-new.abn-itm369{background-position:-1423px 0;width:66px}
+.ab-itm-new.abn-itm370{background-position:-1499px 0;width:48px}
+.ab-itm-new.abn-itm371{background-position:-1557px 0;width:37px}
+.ab-itm-new.abn-itm372{background-position:-1604px 0;width:38px}
+.ab-itm-new.abn-itm373{background-position:-1652px 0;width:43px}
+.ab-itm-new.abn-itm374{background-position:-1705px 0}
+.ab-itm-new.abn-itm375{background-position:-1765px 0;width:48px}
+.ab-itm-new.abn-itm376{background-position:-1823px 0;width:43px}
+.ab-itm-new.abn-itm377{background-position:-1876px 0;width:58px}
+.ab-itm-new.abn-itm378{background-position:-1944px 0;width:74px}
+.ab-itm-new.abn-itm379{background-position:-2028px 0;width:78px}
+.ab-itm-new.abn-itm380{background-position:-2116px 0;width:33px}
+.ab-itm-new.abn-itm381{background-position:-2159px 0;width:37px}
+.ab-itm-new.abn-itm382{background-position:-2206px 0}
+.ab-itm-new.abn-itm383{background-position:-2266px 0;width:48px}
+.ab-itm-new.abn-itm384{background-position:-2324px 0;width:53px}
+.ab-itm-new.abn-itm385{background-position:-2387px 0;width:56px}
+.ab-itm-new.abn-itm386{background-position:-2453px 0;width:53px}
+.ab-itm-new.abn-itm387{background-position:-2516px 0;width:29px}
+.ab-itm-new.abn-itm388{background-position:-2555px 0;width:41px}
+.ab-itm-new.abn-itm389{background-position:-2606px 0;width:35px}
+.ab-itm-new.abn-itm390{background-position:-2651px 0;width:63px}
+.ab-itm-new.abn-itm391{background-position:-2724px 0;width:40px}
+.ab-itm-new.abn-itm392{background-position:-2774px 0}
+.ab-itm-new.abn-itm393{background-position:-2834px 0;width:61px}
+.ab-itm-new.abn-itm394{background-position:-2905px 0;width:52px}
+.ab-itm-new.abn-itm395{background-position:-2967px 0;width:69px}
+.ab-itm-new.abn-itm396{background-position:-3046px 0;width:42px}
+.ab-itm-new.abn-itm397{background-position:-3098px 0}
+.ab-itm-new.abn-itm398{background-position:-3158px 0;width:52px}
+.ab-itm-new.abn-itm399{background-position:-3220px 0;width:46px}
+.ab-itm-new.abn-itm400{background-position:-3276px 0}
+.ab-itm-new.abn-itm401{background-position:-3336px 0}
+.ab-itm-new.abn-itm402{background-position:-3396px 0}
+.ab-itm-new.abn-itm403{background-position:-3456px 0;width:53px}
+.ab-itm-new.abn-itm404{background-position:-3519px 0}
+.ab-itm-new.abn-itm405{background-position:-3579px 0;width:44px}
+.ab-itm-new.abn-itm406{background-position:-3633px 0;width:38px}
+.ab-itm-new.abn-itm408{background-position:-3681px 0;width:25px}
+.ab-itm-new.abn-itm407{background-position:-3716px 0;width:53px}
+.ab-itm-new.abn-itm409{background-position:-3779px 0;width:67px}
+.ab-itm-new.abn-itm410{background-position:-3856px 0}
+.ab-itm-new.abn-itm411{background-position:-3916px 0;width:35px}
+.ab-itm-new.abn-itm412{background-position:-3961px 0;width:39px}
+.ab-itm-new.abn-itm413{background-position:-4010px 0;width:42px}
+.ab-itm-new.abn-itm414{background-position:-4062px 0;width:48px}
+.ab-itm-new.abn-itm415{background-position:-4120px 0;width:52px}
+.ab-itm-new.abn-itm416{background-position:-4182px 0;width:48px}
+.ab-itm-new.abn-itm417{background-position:-4240px 0;width:56px}
+.ab-itm-new.abn-itm418{background-position:-4306px 0;width:61px}
+.ab-itm-new.abn-itm419{background-position:-4377px 0;width:33px}
+.ab-itm-new.abn-itm420{background-position:-4420px 0;width:45px}
+.ab-itm-new.abn-itm421{background-position:-4475px 0;width:63px}
+.ab-itm-new.abn-itm422{background-position:-4548px 0}
+.ab-itm-new.abn-itm423{background-position:-4608px 0;width:48px}
+.ab-itm-new.abn-itm424{background-position:-4666px 0;width:48px}
+.ab-itm-new.abn-itm425{background-position:-4724px 0;width:29px}
+.ab-itm-new.abn-itm426{background-position:-4763px 0;width:80px;height:46px}
+.ab-itm-new.abn-itm428{background-position:-4853px 0;width:55px}
+.ab-itm-new.abn-itm427{background-position:-4918px 0;width:55px}
+.ab-itm-new.abn-itm429{background-position:-4983px 0;width:55px}
+.ab-itm-new.abn-itm431{background-position:-5048px 0;width:43px}
+.ab-itm-new.abn-itm430{background-position:-5101px 0;width:66px}
+.ab-itm-new.abn-itm432{background-position:-5177px 0;width:46px}
+.ab-itm-new.abn-itm434{background-position:-5233px 0;width:40px}
+.ab-itm-new.abn-itm433{background-position:-5283px 0;width:38px}
+.ab-itm-new.abn-itm435{background-position:-5331px 0;width:43px}
+.ab-itm-new.abn-itm436{background-position:-5384px 0;width:53px}
+.ab-itm-new.abn-itm437{background-position:-5447px 0;width:56px}
+.ab-itm-new.abn-itm438{background-position:-5513px 0;width:47px}
+.ab-itm-new.abn-itm439{background-position:-5570px 0;width:63px}
+.ab-itm-new.abn-itm440{background-position:-5643px 0;width:71px}
+.ab-itm-new.abn-itm441{background-position:-5724px 0;width:57px}
+.main .itm-popup .item{position:absolute;transform:scale(1.5);top:25px;right:25px;image-rendering:pixelated}
+.main .itm-popup span .item-title{text-decoration:underline;text-transform:uppercase;letter-spacing:.1em;font-size:20px;margin:10px 0 0;text-align:center}
+.main .textbox a .item{margin:3px}
+.main .textbox a .item.closer{margin:0px}
+.main .tarot-container .textbox a .item{margin:3px 5px}
+.main .textbox .item-title{text-decoration:underline;text-transform:uppercase;letter-spacing:.1em;font-size:16px;margin:10px 0 0;text-align:center}
+.main .textbox .itemid{margin:0;text-align:center}
+.main .items-container{padding-bottom:55px}
+.main .itm-popup .item-title{margin-top:26px !important}

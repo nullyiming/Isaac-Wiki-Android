@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.appdevforall.codeonthego.layouteditor.editor.palette.layouts.LinearLayoutDesign
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/linearlayout"
+	android:padding="8dp"
+	android:layout_height="match_parent"
+	android:layout_width="match_parent"
+	android:orientation="vertical">
+
+	<org.appdevforall.codeonthego.layouteditor.editor.palette.layouts.LinearLayoutDesign
+		android:id="@+id/tool_bar"
+		android:layout_height="48dp"
+		android:layout_width="match_parent"
+		android:orientation="horizontal"
+		android:padding="8dp">
+
+		<org.appdevforall.codeonthego.layouteditor.editor.palette.text.TextViewDesign
+			android:layout_width="match_parent"
+			android:id="@+id/title"
+			android:text="@string/app_name"
+			android:layout_height="match_parent"
+			android:layout_weight="1"
+			android:gravity="left|center"
+			android:textSize="20sp" />
+
+		<org.appdevforall.codeonthego.layouteditor.editor.palette.buttons.SwitchDesign
+			android:id="@+id/switchWidget"
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:text="搜索详情" />
+
+		<org.appdevforall.codeonthego.layouteditor.editor.palette.widgets.ImageViewDesign
+			android:id="@+id/imageview"
+			android:layout_width="48dp"
+			android:layout_height="48dp"
+			android:src="@drawable/about" />
+
+	</org.appdevforall.codeonthego.layouteditor.editor.palette.layouts.LinearLayoutDesign>
+
+	<org.appdevforall.codeonthego.layouteditor.editor.palette.text.TextInputLayoutDesign
+		android:id="@+id/search_input"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginBottom="8dp"
+		android:hint="Search..."
+		app:startIconDrawable="@drawable/ic_search">
+
+		<org.appdevforall.codeonthego.layouteditor.editor.palette.text.TextInputEditTextDesign
+			android:id="@+id/search_edit"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:inputType="text"
+			android:imeOptions="actionSearch"
+			android:maxLines="1" />
+
+	</org.appdevforall.codeonthego.layouteditor.editor.palette.text.TextInputLayoutDesign>
+
+	<org.appdevforall.codeonthego.layouteditor.editor.palette.containers.RecyclerViewDesign
+		android:id="@+id/list_view"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent" />
+
+</org.appdevforall.codeonthego.layouteditor.editor.palette.layouts.LinearLayoutDesign>
