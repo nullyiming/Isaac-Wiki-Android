@@ -91,6 +91,8 @@ public class MainActivity extends AppCompatActivity {
 
 本 App 为非官方个人项目，与官方无关。
 
+开源地址：https://github.com/nullyiming/Isaac-Wiki-Android。
+
 bilibili: 一块大大大饼""")
                             .setPositiveButton(
                                     "作者主页",
@@ -107,6 +109,10 @@ bilibili: 一块大大大饼""")
                                                     new Intent(Intent.ACTION_VIEW, Uri.parse(url)));
                                         }
                                     })
+                            .setNeutralButton("开源地址", (dialog, which) -> {
+                                startActivity(
+                                                    new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/nullyiming/Isaac-Wiki-Android")));
+                            })
                             .create()
                             .show();
                 });
