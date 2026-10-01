@@ -76,10 +76,8 @@ public class MainActivity extends AppCompatActivity {
                         }));
         binding.about.setOnClickListener(
                 v -> {
-                    new MaterialAlertDialogBuilder(this)
-                            .setIcon(R.drawable.about)
-                            .setTitle("关于")
-                            .setMessage(
+                    LayoutDialogBinding contentView = LayoutDialogBinding.inflate(getLayoutInflater());
+                    contentView.tvDialogContent.setText(
                                     """
 以撒的结合 图鉴
 
@@ -97,7 +95,11 @@ public class MainActivity extends AppCompatActivity {
 
 开源地址：https://github.com/nullyiming/Isaac-Wiki-Android。
 
-bilibili: 一块大大大饼""")
+bilibili: 一块大大大饼""");
+                    new MaterialAlertDialogBuilder(this)
+                            .setIcon(R.drawable.about)
+                            .setTitle("关于")
+                            .setView(contentView.getRoot())
                             .setPositiveButton(
                                     "作者主页",
                                     (dialog, which) -> {
