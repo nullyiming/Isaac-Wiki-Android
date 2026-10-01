@@ -8,6 +8,7 @@ import android.net.Uri;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.widget.Toast;
+import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -16,6 +17,7 @@ import com.isaac.wiki.ItemData;
 import com.isaac.wiki.ItemParser;
 import com.isaac.wiki.ListAdapter;
 import com.isaac.wiki.databinding.ActivityMainBinding;
+import com.isaac.wiki.databinding.LayoutDialogBinding;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -53,10 +55,12 @@ public class MainActivity extends AppCompatActivity {
                         pos -> {
                             ItemData data = datas.get(pos);
                             String content = data.details;
+                            LayoutDialogBinding contentView = LayoutDialogBinding.inflate(getLayoutInflater());
+                            contentView.tvDialogContent.setText(content);
                             new MaterialAlertDialogBuilder(this)
                                     .setIcon(new BitmapDrawable(sprites.get(data.id)))
                                     .setTitle(data.name_zh + "/" + data.name_en)
-                                    .setMessage(content)
+                                    .setView(contentView.getRoot())
                                     .setPositiveButton(
                                             "复制",
                                             (dialog, which) -> {
