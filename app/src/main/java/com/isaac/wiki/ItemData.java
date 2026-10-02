@@ -61,7 +61,7 @@ public class ItemData {
                 quality,
                 pools_zh,
                 unlock,
-                effect,
+                effect.replace("#", "\n       "),
                 source,
                 tags,
                 stat_modifiers.isEmpty()

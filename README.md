@@ -4,17 +4,17 @@
 
 ## 简介
 
-Isaac-Wiki-Android 是一个本地离线的《以撒的结合》道具查询工具，收录主动道具、被动道具、塔罗牌与饰品，打开即用，无需联网，方便玩家随时查阅。
+Isaac-Wiki-Android 是一个本地离线的《以撒的结合》道具查询工具，收录主动道具、被动道具、塔罗牌(暂未实现)与饰品(暂未实现)，打开即用，无需联网，方便玩家随时查阅。
 
 | 项目 | 说明 |
 | --- | --- |
-| 当前版本 | 1.0（首个正式版） |
 | 收录版本 | 重生、胎衣、胎衣†、忏悔 |
 | 系统要求 | Android 8.0（API 26）及以上 |
 
 ## 数据来源
 
-数据来自 [cy1499279216-del/isaac-items](https://github.com/cy1499279216-del/isaac-items)。
+[cy1499279216-del/isaac-items](https://github.com/cy1499279216-del/isaac-items)。
+[wofsauge/External-Item-Descriptions](https://github.com/wofsauge/External-Item-Descriptions)。
 
 ## 版权与免责声明
 

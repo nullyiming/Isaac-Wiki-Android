@@ -17,7 +17,6 @@ import com.isaac.wiki.ItemData;
 import com.isaac.wiki.ItemParser;
 import com.isaac.wiki.ListAdapter;
 import com.isaac.wiki.databinding.ActivityMainBinding;
-import com.isaac.wiki.databinding.LayoutDialogBinding;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -44,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
         // set content view to binding's root
         setContentView(binding.getRoot());
         sprites = new SpriteSheet(this);
-        allDatas.addAll(ItemParser.parseFromAssets(this, "items_data.json"));
+        allDatas.addAll(ItemParser.parseFromAssets(this, "eid_items_data.json"));
         datas.addAll(allDatas);
         binding.listView.setLayoutManager(new LinearLayoutManager(this));
         binding.listView.setAdapter(
@@ -55,12 +54,10 @@ public class MainActivity extends AppCompatActivity {
                         pos -> {
                             ItemData data = datas.get(pos);
                             String content = data.details;
-                            LayoutDialogBinding contentView = LayoutDialogBinding.inflate(getLayoutInflater());
-                            contentView.tvDialogContent.setText(content);
                             new MaterialAlertDialogBuilder(this)
                                     .setIcon(new BitmapDrawable(sprites.get(data.id)))
                                     .setTitle(data.name_zh + "/" + data.name_en)
-                                    .setView(contentView.getRoot())
+                                    .setMessage(content)
                                     .setPositiveButton(
                                             "复制",
                                             (dialog, which) -> {
@@ -76,18 +73,22 @@ public class MainActivity extends AppCompatActivity {
                         }));
         binding.about.setOnClickListener(
                 v -> {
-                    LayoutDialogBinding contentView = LayoutDialogBinding.inflate(getLayoutInflater());
-                    contentView.tvDialogContent.setText(
+                    new MaterialAlertDialogBuilder(this)
+                            .setIcon(R.drawable.about)
+                            .setTitle("关于")
+                            .setMessage(
                                     """
 以撒的结合 图鉴
 
 版本 1.0.0
 
-一个本地离线的道具查询工具，收录主动道具、被动道具、塔罗牌、饰品。
+一个本地离线的道具查询工具，收录主动道具、被动道具、塔罗牌(暂未实现)、饰品(暂未实现)。
 
 包含的游戏版本：重生、胎衣、胎衣†、忏悔。
 
-数据来自 https://github.com/cy1499279216-del/isaac-items。
+数据来源:
+    https://github.com/cy1499279216-del/isaac-items。
+    https://github.com/wofsauge/External-Item-Descriptions。
 
 《以撒的结合》版权归 Edmund McMillen 与 Nicalis 所有。
 
@@ -95,11 +96,7 @@ public class MainActivity extends AppCompatActivity {
 
 开源地址：https://github.com/nullyiming/Isaac-Wiki-Android。
 
-bilibili: 一块大大大饼""");
-                    new MaterialAlertDialogBuilder(this)
-                            .setIcon(R.drawable.about)
-                            .setTitle("关于")
-                            .setView(contentView.getRoot())
+bilibili: 一块大大大饼""")
                             .setPositiveButton(
                                     "作者主页",
                                     (dialog, which) -> {

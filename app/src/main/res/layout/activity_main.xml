@@ -59,54 +59,74 @@
         app:cardBackgroundColor="?attr/colorSurfaceContainerLow"
         android:layout_marginBottom="8dp"
         app:cardElevation="0dp">
-    <LinearLayout
-        android:id="@+id/tool_bar"
-        android:layout_height="match_parent"
-        android:layout_width="match_parent"
-        android:orientation="horizontal">
-        
-        <CheckBox
-            android:id="@+id/check_search_all"
-            android:layout_width="wrap_content"
+        <HorizontalScrollView
+            android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:text="详细搜索" />
-            
-        <CheckBox
-            android:id="@+id/check_filter_rebirth"
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:checked="true"
-            android:text="重生" />
+            android:scrollbars="none"
+            android:fillViewport="true">
 
-        <CheckBox
-            android:id="@+id/check_filter_afterbirth"
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:checked="true"
-            android:text="胎衣" />
+            <com.google.android.material.chip.ChipGroup
+                android:id="@+id/filters"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                app:singleLine="true"
+                android:paddingHorizontal="8dp"
+                app:chipSpacingHorizontal="8dp">
 
-        <CheckBox
-            android:id="@+id/check_filter_afterbirth_dagger"
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:checked="true"
-            android:text="胎衣†" />
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/check_search_all"
+                    style="@style/Widget.Material3.Chip.Filter"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="详细搜索"
+                    app:chipStrokeWidth="0dp"
+                    app:chipCornerRadius="8dp" />
 
-        <CheckBox
-            android:id="@+id/check_filter_repentance"
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:checked="true"
-            android:text="忏悔" />
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/check_filter_rebirth"
+                    style="@style/Widget.Material3.Chip.Filter"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="重生"
+                    android:checked="true"
+                    app:chipStrokeWidth="0dp"
+                    app:chipCornerRadius="8dp" />
 
-    </LinearLayout>
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/check_filter_afterbirth"
+                    style="@style/Widget.Material3.Chip.Filter"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="胎衣"
+                    android:checked="true"
+                    app:chipStrokeWidth="0dp"
+                    app:chipCornerRadius="8dp" />
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/check_filter_afterbirth_dagger"
+                    style="@style/Widget.Material3.Chip.Filter"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="胎衣†"
+                    android:checked="true"
+                    app:chipStrokeWidth="0dp"
+                    app:chipCornerRadius="8dp" />
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/check_filter_repentance"
+                    style="@style/Widget.Material3.Chip.Filter"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="忏悔"
+                    android:checked="true"
+                    app:chipStrokeWidth="0dp"
+                    app:chipCornerRadius="8dp" />
+
+            </com.google.android.material.chip.ChipGroup>
+        </HorizontalScrollView>
     </androidx.cardview.widget.CardView>
-    
+
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
